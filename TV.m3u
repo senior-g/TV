@@ -37,7 +37,7 @@ http://45.68.35.218:4001/play/a009/index.m3u8
 http://45.5.117.182:8000/play/jlo9/index.m3u8
 #EXTINF:0 type="stream" channelId="2659" group="TV MX" tvg-country="mx", Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0 type="stream" channelId="2659" name="MULTIMEDIOS CDMX" group="TV MX" tvg-country="mx", Canal 6 CDMX
+#EXTINF:0 type="stream" channelId="2659" group="TV MX" tvg-country="mx", Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1TlUJlksIyfOMb730h_mrZmi3i_QlVWEI=w1366-h641-iv1" tvg-country="mx", Azteca 7 (720p)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -179,11 +179,11 @@ https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/chunklist_
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/chunklist_w33021482_b3003000.m3u8
 #EXTINF:0 type="stream" channelId="JUSTICIA TV.mx" name="JUSTICIA TV.mx" group="TV MX" logo="https://www.cjf.gob.mx/salaprensa/img/identificadores/justiciaTV.png" tvg-country="mx", Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3774" name="MARIAVISIÃƒN.mx" group="Religión" logo="https://lh3.googleusercontent.com/u/0/d/1IFSDcOL96Qa5pkOO5kSKxGe6WcT05nF3=w1366-h647-iv1" tvg-country="sv", María Visión
+#EXTINF:0 type="stream" channelId="3774" name="MARIAVISIÓN.mx" group="Religión" logo="https://lh3.googleusercontent.com/u/0/d/1IFSDcOL96Qa5pkOO5kSKxGe6WcT05nF3=w1366-h647-iv1", María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3774" group="Religión" logo="https://cdn.bio.link/uploads/profile_pictures/2022-06-14/aQmg3W6UdOCipiyuDucQszmQjiRjH8Cw.png" tvg-country="gt", María Visión Capilla
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Privado2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4569" group="Religión" tvg-country="mx", Enlace
+#EXTINF:0 type="stream" channelId="4569" name="ENLACE.mx" group="Religión", Enlace TV
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Religión" logo="https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944.png" audio-track="spa" tvg-country="sv", Canal 27
 http://200.115.120.1:8000/play/ca078/index.m3u8
@@ -225,15 +225,15 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 http://190.60.38.45:8000/play/a0du/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Novelas" logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/telemundo-romance-fclogo-72-white.png" shift="-6" tvg-country="us", Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
-#EXTINF:0 type="stream" channelId="2504" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png" shift="-1" tvg-country="sv", TLNovelas México FHD
+#EXTINF:0 type="stream" channelId="2504" name="TLNOVELAS.mx" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png", TLNovelas México FHD
 http://45.68.35.218:4001/play/a00s/index.m3u8
-#EXTINF:0 type="stream" channelId="2504" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png" audio-track="spa" tvg-country="co", Tlnovelas HD 
+#EXTINF:0 type="stream" channelId="2504" name="TLNOVELAS.mx" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png" audio-track="spa", Tlnovelas HD 
 http://190.60.38.45:8000/play/a0d5/index.m3u8
-#EXTINF:0 type="stream" channelId="2504" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png" audio-track="spa" tvg-country="co", Tlnovelas HD
+#EXTINF:0 type="stream" channelId="2504" name="TLNOVELAS.mx" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png" audio-track="spa", Tlnovelas HD
 http://181.176.153.104:8090/play/a1c0/index.m3u8
-#EXTINF:0 type="stream" channelId="2504" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png" aspect-ratio="16:9" tvg-country="co", Tlnovelas HD
+#EXTINF:0 type="stream" channelId="2504" name="TLNOVELAS.mx" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png", Tlnovelas HD
 http://181.78.23.26:45000/play/a04t
-#EXTINF:0 type="stream" channelId="2504" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png" tvg-country="co", Tlnovelas HD
+#EXTINF:0 type="stream" channelId="2504" name="TLNOVELAS.mx" group="Novelas" logo="https://www.televisiongratishd2.com/imge/tlnovelas.png", Tlnovelas HD
 http://181.78.21.46:8009/play/a02l
 #EXTINF:0 type="stream" channelId="3817" group="Novelas" logo="https://static.wikia.nocookie.net/telenovela-database/images/0/0a/Televisa.png/revision/latest/scale-to-width-down/1280?cb=20240516163417" audio-track="spa" tvg-country="sv", Televisa Novelas HD
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?
@@ -317,13 +317,13 @@ http://45.68.35.218:4001/play/a01g/index.m3u8
 http://200.115.120.1:8000/play/ca005/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Toons & Anime" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/800px-FunBox_TV_logo.svg.png" tvg-country="pe", FunBox
 http://190.121.42.18:8000/play/a00s/index.m3u8
-#EXTINF:0 type="stream" channelId="2636" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa", Adult Swim HD
+#EXTINF:0 type="stream" channelId="ADULT SWIM.mx" name="ADULT SWIM.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa", Adult Swim HD
 http://201.182.248.254:8888/play/a0br/index.m3u8
-#EXTINF:0 type="stream" channelId="2626" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa" tvg-country="co", Adult Swim (720p)
+#EXTINF:0 type="stream" channelId="ADULT SWIM.mx" name="ADULT SWIM.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa" tvg-country="co", Adult Swim (720p)
 http://190.60.38.45:8000/play/a0jb/index.m3u8
-#EXTINF:11 type="stream" channelId="2626" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa" tvg-country="co", Adult Swim (480p)
+#EXTINF:11 type="stream" channelId="ADULT SWIM.mx" name="ADULT SWIM.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa" tvg-country="co", Adult Swim (480p)
 http://45.228.233.254:18000/play/a015/index.m3u8
-#EXTINF:0 type="stream" channelId="2626" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa" tvg-country="co", Adult Swim (480p)
+#EXTINF:0 type="stream" channelId="ADULT SWIM.mx" name="ADULT SWIM.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa" tvg-country="co", Adult Swim (480p)
 http://181.176.153.104:8090/play/a16a/index.m3u8
 #EXTINF:0 type="stream" channelId="2639" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Tooncast_HD.png/revision/latest?cb=20241211214928&path-prefix=es" audio-track="spa" aspect-ratio="16:9" tvg-country="ar", Tooncast Full HD
 http://152.200.192.150:8000/play/a03g
@@ -495,25 +495,25 @@ http://45.228.233.254:18000/play/a00g/index.m3u8
 http://190.171.83.2:4000/play/a0dq/index.m3u8
 #EXTINF:0 type="stream" channelId="1719" name="PARAMOUNT NETWORK" group="Películas" tvg-country="us", Paramount Network USA
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:0 type="stream" channelId="177" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" shift="2" tvg-country="co", Star Channel HD (Argentina)
+#EXTINF:0 type="stream" channelId="177" name="STAR CHANNEL.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" shift="3" tvg-country="mx", Star Channel HD (Argentina)
 http://190.60.38.45:8000/play/a0eg/index.m3u8
-#EXTINF:0 type="stream" channelId="177" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" shift="2" tvg-country="co" catchup="default", Star Channel HD (Argentina)
+#EXTINF:0 type="stream" channelId="177" name="STAR CHANNEL.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" shift="3" tvg-country="mx", Star Channel HD (Argentina)
 http://181.78.74.69:8000/play/a06e/index.m3u8
-#EXTINF:0 type="stream" channelId="177" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" shift="2" tvg-country="co", Star Channel HD (Argentina)
+#EXTINF:0 type="stream" channelId="177" name="STAR CHANNEL.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" shift="3" tvg-country="mx", Star Channel HD (Argentina)
 http://181.176.153.104:8090/play/a0yy/index.m3u8
-#EXTINF:0 type="stream" channelId="177" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" tvg-country="co", Star Channel HD (Colombia)
+#EXTINF:0 type="stream" channelId="177" name="STAR CHANNEL.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" shift="1" tvg-country="mx", Star Channel HD (Colombia)
 http://181.78.105.146:6060/play/a03a/index.m3u8
-#EXTINF:0 type="stream" channelId="177" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" tvg-country="co", Star Channel HD (Colombia)
+#EXTINF:0 type="stream" channelId="177" name="STAR CHANNEL.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" shift="1" tvg-country="mx", Star Channel HD (Colombia)
 http://181.78.21.46:8009/play/a025
-#EXTINF:11 type="stream" channelId="177" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" tvg-country="co", Star Channel HD (Colombia)
+#EXTINF:11 type="stream" channelId="177" name="STAR CHANNEL.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw=w1366-h641-iv1" audio-track="spa" shift="1" tvg-country="mx", Star Channel HD (Colombia)
 http://45.228.233.254:18000/play/a03t/index.m3u8
-#EXTINF:11 type="stream" channelId="2503" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.9750aa4a0cfeff171820ee52a1b5835d_icon-removebg-preview.png.a90153f9fee308a906aa9c6ff4740643.png" audio-track="spa" shift="1" tvg-country="mx", A&E HD
+#EXTINF:11 type="stream" channelId="2503" name="STAR CHANNEL.mx" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.9750aa4a0cfeff171820ee52a1b5835d_icon-removebg-preview.png.a90153f9fee308a906aa9c6ff4740643.png" audio-track="spa" shift="1" tvg-country="mx", A&E HD
 http://45.228.233.254:18000/play/a01x/index.m3u8
-#EXTINF:0 type="stream" channelId="2503" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.9750aa4a0cfeff171820ee52a1b5835d_icon-removebg-preview.png.a90153f9fee308a906aa9c6ff4740643.png" audio-track="spa" shift="1" tvg-country="mx", A&E HD
+#EXTINF:0 type="stream" channelId="2503" name="STAR CHANNEL.mx" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.9750aa4a0cfeff171820ee52a1b5835d_icon-removebg-preview.png.a90153f9fee308a906aa9c6ff4740643.png" audio-track="spa" shift="1" tvg-country="mx", A&E HD
 http://181.78.105.146:6060/play/a02g/index.m3u8
-#EXTINF:0 type="stream" channelId="2503" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.9750aa4a0cfeff171820ee52a1b5835d_icon-removebg-preview.png.a90153f9fee308a906aa9c6ff4740643.png" audio-track="spa" shift="1" tvg-country="mx", A&E HD
+#EXTINF:0 type="stream" channelId="2503" name="STAR CHANNEL.mx" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.9750aa4a0cfeff171820ee52a1b5835d_icon-removebg-preview.png.a90153f9fee308a906aa9c6ff4740643.png" audio-track="spa" shift="1" tvg-country="mx", A&E HD
 http://181.78.21.46:8009/play/a03c
-#EXTINF:0 type="stream" channelId="2503" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.9750aa4a0cfeff171820ee52a1b5835d_icon-removebg-preview.png.a90153f9fee308a906aa9c6ff4740643.png" audio-track="spa" shift="1" tvg-country="mx" catchup="default", A&E HD
+#EXTINF:0 type="stream" channelId="2503" name="STAR CHANNEL.mx" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.9750aa4a0cfeff171820ee52a1b5835d_icon-removebg-preview.png.a90153f9fee308a906aa9c6ff4740643.png" audio-track="spa" shift="1" tvg-country="mx" catchup="default", A&E HD
 http://181.78.105.146:8800/play/a04r
 #EXTINF:0 type="stream" channelId="3186" group="Películas" audio-track="spa" tvg-country="ar", Sci-Fi
 https://stitcher.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -791,7 +791,7 @@ http://45.68.35.218:4001/play/a00g/index.m3u8
 http://190.109.31.53:9000/play/a05a/index.m3u8
 #EXTINF:0 type="stream" channelId="1959" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1yg1j-kRqV-bXQW0wzKpfn0wCNURktlqj=w1366-h641-iv1" tvg-country="sv", Bandamax HD
 http://45.5.117.182:8000/play/98ui/index.m3u8
-#EXTINF:0 type="stream" channelId="ULTRA BANDA.mx" name="ULTRA BANDA.mx" group="Música", Ultra Banda HD
+#EXTINF:0 type="stream" channelId="3811" name="ULTRA BANDA.mx" group="Música", Ultra Banda HD
 http://190.109.31.53:9000/play/a05t/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/119hUgkJKgpHJTpUsJFKecjoQ8hodltE3=w1366-h641-iv1" tvg-country="mx", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -813,9 +813,9 @@ http://45.228.233.254:18000/play/a044/index.m3u8
 http://181.78.105.146:8800/play/a065
 #EXTINF:0 type="stream" channelId="289" group="Música" tvg-country="mx", MTV Hits HD
 http://45.5.116.178:8000/play/a01z/index.m3u8
-#EXTINF:11 type="stream" channelId="5220" group="Música" audio-track="spa" tvg-country="ar", MTV 00s Full HD
+#EXTINF:11 type="stream" channelId="5220" name="MTV 00S.mx" group="Música" tvg-country="mx", MTV 00s Full HD
 http://181.78.105.146:8800/play/a066
-#EXTINF:0 type="stream" channelId="5220" group="Música" aspect-ratio="16:9" tvg-country="pe", MTV 00s FHD
+#EXTINF:0 type="stream" channelId="5220" name="MTV 00S.mx" group="Música" tvg-country="mx", MTV 00s FHD
 http://45.71.254.1:8000/play/a0dz/index.m3u8
 #EXTINF:0 type="stream" channelId="149" group="Música" aspect-ratio="16:9" tvg-country="ar", MTV 80s
 http://45.5.116.178:8000/play/a020/index.m3u8
@@ -843,13 +843,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:0 type="stream" channelId="3804" name="TUDN.mx" group="Deportes" tvg-country="mx", TUDN HD
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:0 type="stream" tvg-id="3804" tvg-name="TUDN.mx" group="Deportes" tvg-country="mx", TUDN HD
+#EXTINF:0 type="stream" channelId="3804" name="TUDN.mx" group="Deportes" tvg-country="mx", TUDN HD
 http://45.68.35.218:4001/play/a00u/index.m3u8
-#EXTINF:0 type="stream" tvg-id="3804" tvg-name="TUDN.mx" group="Deportes", TUDN HD
+#EXTINF:0 type="stream" channelId="3804" name="TUDN.mx" group="Deportes", TUDN HD
 http://45.68.35.218:4001/play/a01u/index.m3u8
-#EXTINF:47 type="stream" channelId="TUDN.mx" name="TUDN.mx" group="Deportes", TUDN HD
+#EXTINF:47 type="stream" channelId="3804" name="TUDN.mx" group="Deportes", TUDN HD
 http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3804" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/13H9bw9KC_tDEivf_VFIKi6Z7-6G2_v27=w1366-h641-iv1" tvg-country="us", TUDN USA HD
+#EXTINF:0 type="stream" channelId="407" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/13H9bw9KC_tDEivf_VFIKi6Z7-6G2_v27=w1366-h641-iv1" tvg-country="us", TUDN USA HD
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:0 type="stream" channelId="407" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/13H9bw9KC_tDEivf_VFIKi6Z7-6G2_v27=w1366-h641-iv1" tvg-country="sv", TUDN USA HD
 http://45.68.35.218:4001/play/a00x/index.m3u8
