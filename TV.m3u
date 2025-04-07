@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/mexico2.xml"
 #EXTINF:0 type="stream" channelId="3731" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" tvg-country="mx", Azteca Uno (720p)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0 type="stream" channelId="3731" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" shift="-1" tvg-country="mx", Azteca Uno -1 hora (720p)
@@ -27,9 +27,9 @@ http://190.11.225.124:5000/live/univision_hd/playlist.m3u8
 http://190.92.10.66:4000/play/a005/index.m3u8
 #EXTINF:49 type="stream" channelId="3779" group="Películas" logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" tvg-country="us", Universo HD
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="388" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1U4jxfFR5i-xRt3BhaQkTGCNEsKdfJyCl=w1366-h641-iv1" tvg-country="ni", Unicable HD
+#EXTINF:0 type="stream" channelId="UNICABLE.mx" name="UNICABLE.mx" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1U4jxfFR5i-xRt3BhaQkTGCNEsKdfJyCl=w1366-h641-iv1", Unicable HD
 http://45.68.35.218:4001/play/a014/index.m3u8
-#EXTINF:0 type="stream" channelId="388" group="TV USA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1484px-Unicable_logo.svg.png" tvg-country="pa", Unicable HD
+#EXTINF:0 type="stream" tvg-id="UNICABLE.mx" tvg-name="UNICABLE.mx" group="TV USA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1484px-Unicable_logo.svg.png" tvg-country="mx", Unicable HD
 http://45.5.117.182:8000/play/jp0t/index.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16af5933-c8e0-4d5b-8488-45339c5b0252/df094zq-78040c6e-c793-4b3a-8625-2cbd17270409.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2YWY1OTMzLWM4ZTAtNGQ1Yi04NDg4LTQ1MzM5YzViMDI1MlwvZGYwOTR6cS03ODA0MGM2ZS1jNzkzLTRiM2EtODYyNS0yY2JkMTcyNzA0MDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aI9eAmcwnIjegxFyrbwQw9-dwuykYGCE8AO-q-Mo-aE" tvg-country="mx", Canal 5 HD
 http://45.68.35.218:4001/play/a009/index.m3u8
@@ -467,11 +467,11 @@ http://181.78.21.46:8009/play/a033
 http://181.176.153.104:8090/play/a10m/index.m3u8
 #EXTINF:0 type="stream" channelId="188" group="Películas" audio-track="spa" shift="-1" tvg-country="ar", Sony Channel HD (Chile)
 http://181.78.105.146:6060/play/a03c/index.m3u8
-#EXTINF:0 type="stream" channelId="1214" group="Películas" audio-track="spa" tvg-country="ar", Sony Movies Full HD
+#EXTINF:0 type="stream" channelId="SONY MOVIES.mx" name="SONY MOVIES.mx" group="Películas" audio-track="spa" tvg-country="mx", Sony Movies Full HD
 http://181.78.21.46:8009/play/a034
-#EXTINF:0 type="stream" channelId="1214" group="Películas" audio-track="spa" tvg-country="pe" catchup="default", Sony Movies HD
+#EXTINF:0 type="stream" channelId="SONY MOVIES.mx" name="SONY MOVIES.mx" group="Películas" audio-track="spa", Sony Movies HD
 http://181.78.105.146:8800/play/a04w
-#EXTINF:0 type="stream" channelId="1214" group="Películas" audio-track="spa" tvg-country="gt", Sony Movies HD
+#EXTINF:0 type="stream" channelId="1214" name="SONY MOVIES.mx" group="Películas" audio-track="spa", Sony Movies HD
 http://201.182.248.254:8888/play/a08y/index.m3u8
 #EXTINF:0 type="stream" channelId="2903" group="Películas" audio-track="spa" shift="2" tvg-country="mx", Warner HD
 http://181.176.153.106:8090/play/a0q7/index.m3u8
@@ -791,7 +791,7 @@ http://45.68.35.218:4001/play/a00g/index.m3u8
 http://190.109.31.53:9000/play/a05a/index.m3u8
 #EXTINF:0 type="stream" channelId="1959" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1yg1j-kRqV-bXQW0wzKpfn0wCNURktlqj=w1366-h641-iv1" tvg-country="sv", Bandamax HD
 http://45.5.117.182:8000/play/98ui/index.m3u8
-#EXTINF:0 type="stream" channelId="3811" group="Música" audio-track="spa" tvg-country="co", Ultra Banda
+#EXTINF:0 type="stream" channelId="ULTRA BANDA.mx" name="ULTRA BANDA.mx" group="Música", Ultra Banda HD
 http://190.109.31.53:9000/play/a05t/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/119hUgkJKgpHJTpUsJFKecjoQ8hodltE3=w1366-h641-iv1" tvg-country="mx", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
@@ -841,13 +841,13 @@ https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:0 type="stream" channelId="-1" group="Música" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgqnM7OGTn-5jHCimfUYoguYOJtUgY6pLMZ_zsTx22TUZR3SmDhNTvaijqI3KvyjRb8I&usqp=CAU" tvg-country="mx", Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:0 type="stream" channelId="3804" group="Deportes" tvg-country="sv", TUDN FHD
+#EXTINF:0 type="stream" channelId="TUDN.mx" name="TUDN.mx" group="Deportes" tvg-country="mx", TUDN HD
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:0 type="stream" channelId="3804" group="Deportes" tvg-country="sv", TUDN HD
+#EXTINF:0 type="stream" tvg-id="TUDN.mx" tvg-name="TUDN.mx" group="Deportes" tvg-country="mx", TUDN HD
 http://45.68.35.218:4001/play/a00u/index.m3u8
-#EXTINF:0 type="stream" channelId="3804" group="Deportes" tvg-country="sv", TUDN HD
+#EXTINF:0 type="stream" tvg-id="TUDN.mx" tvg-name="TUDN.mx" group="Deportes", TUDN HD
 http://45.68.35.218:4001/play/a01u/index.m3u8
-#EXTINF:47 type="stream" channelId="3804" group="Deportes" tvg-country="sv", TUDN HD
+#EXTINF:47 type="stream" channelId="TUDN.mx" name="TUDN.mx" group="Deportes", TUDN HD
 http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3804" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/13H9bw9KC_tDEivf_VFIKi6Z7-6G2_v27=w1366-h641-iv1" tvg-country="us", TUDN USA HD
 http://190.92.10.66:4000/play/a002/index.m3u8
