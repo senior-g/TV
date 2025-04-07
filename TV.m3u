@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/mexico2.xml"
+#EXTM3U UTF-8 x-tvg-url="https://www.open-epg.com/files/mexico2.xml"
 #EXTINF:0 type="stream" channelId="3731" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" tvg-country="mx", Azteca Uno (720p)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:0 type="stream" channelId="3731" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" shift="-1" tvg-country="mx", Azteca Uno -1 hora (720p)
