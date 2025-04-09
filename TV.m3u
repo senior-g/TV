@@ -53,21 +53,23 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3720" group="TV MX" tvg-country="mx", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:0 type="stream" channelId="243" name="AZ CLIC.mx" group="TV MX" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/small.AztecaClic-2023oficial.png.46d568e2580d788bc7ad03640f0fba13.png" aspect-ratio="16:9" shift="-1", AZ Clic!
+#EXTINF:0 type="stream" channelId="228" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/3/39/AztecaInternacional2024.svg/revision/latest?cb=20241017015554&path-prefix=es" tvg-country="pe", Azteca Internacional HD
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+#EXTINF:0 type="stream" channelId="243" name="AZ CLIC.mx" group="TV MX" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_08/small.AztecaClic-2023oficial.png.46d568e2580d788bc7ad03640f0fba13.png" aspect-ratio="16:9" shift="-1", AZ Clic! HD
 https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
-#EXTINF:0 type="stream" channelId="3727" name="AZ CINEMA.mx" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest?cb=20230707174037" tvg-country="mx" shift="-1", AZ Cinema
+#EXTINF:0 type="stream" channelId="3727" name="AZ CINEMA.mx" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest?cb=20230707174037" tvg-country="mx" shift="-1", AZ Cinema HD
 http://nxt.plus:8080/jesus01/jesus01/160510
 #EXTINF:0 type="stream" channelId="4666" name="AZ CINEMA.mx" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest?cb=20230707174037" audio-track="spa" tvg-country="mx" shift="-1", AZ Cinema HD
 http://181.78.21.46:8009/play/a030
-#EXTINF:0 type="stream" channelId="228" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/a/af/TV_Azteca_Mundo_2019.png/revision/latest?cb=20191211171850&path-prefix=es" tvg-country="pe", AZ Mundo
-http://45.68.35.218:4001/play/a02k/index.m3u8
-#EXTINF:0 type="stream" channelId="228" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/3/39/AztecaInternacional2024.svg/revision/latest?cb=20241017015554&path-prefix=es" tvg-country="pe", Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
-#EXTINF:0 type="stream" channelId="3629" group="TV MX" tvg-country="sv", Cine Mexicano
+#EXTINF:0 type="stream" channelId="3812" group="Películas" audio-track="spa" tvg-country="mx", Ultra Clásico HD
+http://190.109.31.53:9000/play/a05u/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/330px-Claro_TV_wordmark.svg.png" audio-track="spa" tvg-country="mx", Claro Cinema (720p)
+http://200.59.188.3:8000/play/a043
+#EXTINF:0 type="stream" channelId="3629" group="TV MX" tvg-country="sv", Cine Mexicano HD
 http://190.109.31.53:9000/play/a05b/index.m3u8
-#EXTINF:0 type="stream" channelId="3629" group="TV MX" audio-track="spa" tvg-country="gt", Cine Mexicano
+#EXTINF:0 type="stream" channelId="3629" group="TV MX" audio-track="spa" tvg-country="mx", Cine Mexicano (480p)
 http://45.68.35.218:4001/play/a01x/index.m3u8
-#EXTINF:0 type="stream" channelId="3629" group="TV MX" audio-track="spa" tvg-country="hn", Cine Mexicano (480p)
+#EXTINF:0 type="stream" channelId="3629" group="TV MX" audio-track="spa" tvg-country="mx", Cine Mexicano (480p)
 http://200.115.120.1:8000/play/ca083/index.m3u8
 #EXTINF:0 type="stream" channelId="1952" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1fNUYAedkCKLVJPZv_8QNdfnkFOaYrqCX=w1366-h641-iv1" tvg-country="pe", De Película HD
 http://181.78.21.46:8009/play/a00t
@@ -75,14 +77,12 @@ http://181.78.21.46:8009/play/a00t
 http://181.176.153.104:8090/play/a13w/index.m3u8
 #EXTINF:0 type="stream" channelId="1952" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1fNUYAedkCKLVJPZv_8QNdfnkFOaYrqCX=w1366-h641-iv1" audio-track="spa" tvg-country="pe" catchup="default", De Película (480p)
 http://190.171.83.2:4000/play/a0o7/index.m3u8
-#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" audio-track="spa" tvg-country="pe", Distrito Comedia UHD
+#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" audio-track="spa" tvg-country="pe", Distrito Comedia Full HD
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" aspect-ratio="16:9" tvg-country="pe", Distrito Comedia HD
-http://181.78.105.146:2000/play/a08t/index.m3u8
-#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" audio-track="spa" tvg-country="pe", Distrito Comedia HD
-http://201.182.248.254:8888/play/a0a5/index.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" audio-track="spa" tvg-country="pe", Distrito Comedia HD
 http://181.176.153.104:8090/play/a0p5/index.m3u8
+#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" audio-track="spa" tvg-country="pe", Distrito Comedia (720p)
+http://201.182.248.254:8888/play/a0a5/index.m3u8
 #EXTINF:47 type="stream" channelId="1191" group="TV USA" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.Comedy-Central-Symbol-removebg-preview.png.d75d3300d085d087750eda7f6bf1fedd.png" audio-track="spa" shift="1" tvg-country="mx", Comedy Central FHD
 http://190.11.225.124:5000/live/comedycentral_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1191" group="TV USA" logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w500-q80/hero/comedy_central_1.png" audio-track="spa" shift="1" tvg-country="mx" catchup="default", Comedy Central HD
@@ -563,7 +563,9 @@ http://190.25.157.67:8000/play/a0en
 http://181.78.105.146:8800/play/a059
 #EXTINF:0 type="stream" channelId="2686" group="Series" logo="https://static.wikia.nocookie.net/wiki-de-rick-morty/images/8/86/TNT_Series.png/revision/latest?cb=20210422033049&path-prefix=es" audio-track="spa" tvg-country="pe", TNT Series Full HD (Perú)
 http://181.176.153.104:8090/play/a0z1/index.m3u8
-#EXTINF:0 type="stream" channelId="3228" group="Series" logo="https://lh3.googleusercontent.com/fife/ALs6j_GexEspu6rQiUX7oLzIo6oDHhRcZJJMcz4f9sBvZzDFI5cOI0uZMFZcsuaWpPlDd4_t5g0QurAZSxOW9XNNWwJHDnSUtSMEPOb-DW5Ikphg6nJ3Q3cp1FXaAu2iC7FbHc41bEHV4g0BJTEQeSHpvjH68mac5Ewno0eA0YKX9CEUetdF3RLxKOpJ_3ywwQpV8UuIMvGZxGkNQ1FPZxIUA4Y_PvPyyL9mZ29tLdVAwzkIgrisjnF_VxJkunmrVmBj3u1IlY9h4dXviWYBT788f9yVd6ADKhslzRgWzzkK5mGzTuuoI_p0Wm9LbVb8sUOSvyh6_V19xw6_QCKumL6So0CoQ7b8wUtWUh-BjYOBsTyk62t-pXRgI11RA0_DYHdIIxkLKiiNgvEWKgzt1L_fV9A00eM_ii2gsykzSAUokg1P6mObLMBy8FfnLiW-VEt-ey3U0_HO3hFDZVAbV4aQ0oAEDbuW01LnlKRaqYTW0nxCoU7odaDXHEuF3fdJVh-f_LX-8q1mwCkU-cAPFgW5s93YCtR_e1Nkykc927m_3MIHwsupPsI2LapJhl2eB3jnkorE36pYB3axTb3tWSOBqRM28oW2W7qWgkmZ03_EAHth9Fg2gSV6PxupRnGYltOWuY0bwfMSCrONQSfhQG_R1gX3zpRPXmP-0Ftwg5i-NAG-wbJZ9g5FiOmLCBa-Db1k-oSQkv4Xm-8tJtpin9_GCLzTqcZgRzs2y3zrR2olY5WU7C1pcpZGWIKsrAx6W4vFkQkDlTPSW6c3IMpnX6MdSqEhQqJ4Jqlj29S1zmb1uaMWobpXTmWKK7qxLudT_SV7TXVdlazgt2NgcWbpmiZ2DrKIMMHhBDizKATBaXb8kQMITMvUGRpnmEw0ZoAjuiAGv_MNNMzkQ5GAApl93rn1PBO_cxKiOUlnNHL65PyCM55sSzP9JkC7-tgjMjGssan2RMJS8vqI5Uzj6bZzMZnvSrIO5VPTY3eY5Ncdk7tn5SF5xv6v1N25MyFVYNNTCcCmbdJkc9e9XlhRuoJrpXzZJVm3I0EefSecvPjDW9X3BwoOS1AaOrEyoxjolDZH_JSLhkLpoEs-9y4cLu10jFYNcGxAyKsUExpc_Kh3FiX7IJ7LwuRvhaYviIFoFnjWUC74FMz8N0abB976utg4l91NXG5rf8VOLs2A4_Nlsu5L38ulGmB2-sNYoBQq8VGwnj1Z-xCQEffz5rNg4UJvyGBqfwdaJY9-OIup96GOe3jKFvZzDRO-iegOuY-vVaBERF_fCVA8jaNgHCWm1HkZ-wsDNMT7JLLADzZCz247XORj8v7aj2U8f06yLqFj4tkce1Ita7ookpmWmJI6ALQGnk6DzDg7leDuQ9utHewGhyQEDoy4OEn8uxmjldJKf85HBd4TwfwhoqSElEjw6sxe98V8V3FFVwVPkFsUEfv8eMwU8W_2NOkEgsW1L4WK59UKdwtnXQNhrGQPL3666-bkWz05nFtBuvnhCpyvMbY5LBqTOPj5ztNjprx-col5yDwG1XTw0SCoNVuVIM0bBrncUUs6F3xQRMTCaG_KOhX-IMqATHKot831A8-e7bchtg1T9Au9JexxRr38AwXFoKDUHIBKJA=w1366-h641" audio-track="spa" tvg-country="co" catchup="default", TNT Novelas HD
+#EXTINF:0 type="stream" channelId="3228" group="Series" logo="https://static.wikia.nocookie.net/wiki-de-rick-morty/images/8/86/TNT_Series.png/revision/latest?cb=20210422033049&path-prefix=es" audio-track="spa" tvg-country="co" catchup="default", TNT Novelas HD
+http://190.171.83.2:4000/play/a0lv/index.m3u8
+#EXTINF:0 type="stream" channelId="3228" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1GKCCUr4YluN6Hf-Drz9zFWfGTiw45SzC=w1366-h641-iv1" audio-track="spa" tvg-country="co", TNT Novelas HD
 http://190.171.83.2:4000/play/a0lv/index.m3u8
 #EXTINF:0 type="stream" channelId="3228" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1GKCCUr4YluN6Hf-Drz9zFWfGTiw45SzC=w1366-h641-iv1" audio-track="spa" tvg-country="co", TNT Novelas HD
 http://190.25.157.67:8000/play/a0cd
@@ -645,15 +647,11 @@ http://181.78.105.146:8800/play/a04v
 http://200.115.120.1:8000/play/ca120/index.m3u8
 #EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest?cb=20161218051240" audio-track="spa" tvg-country="sv", Pánico HD
 http://190.109.31.53:9000/play/a05m/index.m3u8
-#EXTINF:0 type="stream" channelId="3812" group="Películas" audio-track="spa" tvg-country="sv", Ultra Clásico
-http://190.109.31.53:9000/play/a05u/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/330px-Claro_TV_wordmark.svg.png" audio-track="spa" tvg-country="sv", Claro Cinema (720p)
-http://200.59.188.3:8000/play/a043
-#EXTINF:11 type="stream" channelId="4774" group="Películas" logo=""audio-track="spa" tvg-country="ar", Canal Claro HD
+#EXTINF:11 type="stream" channelId="4774" group="Películas" logo=""audio-track="spa" tvg-country="co", Canal Claro HD
 http://45.228.233.254:18000/play/a075/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://static.wikia.nocookie.net/doblaje/images/d/d3/Clover-channel2021-logo-px.png/revision/latest?cb=20220608032912&path-prefix=es" audio-track="spa" tvg-country="ar", Clover Channel (720p)
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp" audio-track="spa" tvg-country="cl", Clover Channel (720p)
 http://181.176.153.104:8090/play/a160/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://static.wikia.nocookie.net/doblaje/images/d/d3/Clover-channel2021-logo-px.png/revision/latest?cb=20220608032912&path-prefix=es" audio-track="spa" tvg-country="ar", Clover Channel (720p)
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp" audio-track="spa" tvg-country="pe", Clover Channel (720p)
 http://200.59.188.3:8000/play/a0te
 #EXTINF:0 type="stream" tvg-id="POPCORN.mx" tvg-name="POPCORN.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1gTyvy1JROVouOmYrpoFC2De8sKXN8dTs=w1366-h641-iv1" audio-track="spa" tvg-country="mx"  shift="-1", Popcorn Central HD
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
