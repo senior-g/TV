@@ -63,8 +63,6 @@ http://181.78.21.46:8009/play/a030
 http://45.68.35.218:4001/play/a02k/index.m3u8
 #EXTINF:0 type="stream" channelId="228" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/3/39/AztecaInternacional2024.svg/revision/latest?cb=20241017015554&path-prefix=es" tvg-country="pe", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
-#EXTINF:0 type="stream" channelId="1970" name="NUEVE.mx" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1IzVgfi3enbNKEZlONeGw_D7MfOxT72uA=w1366-h641-iv1" audio-track="spa" tvg-country="mx"  shift="-1", El NU9VE
-http://innovat.ddns.net/live/INNOVA2011/GPygQQ7Crh/3746.m3u8
 #EXTINF:0 type="stream" channelId="3629" group="TV MX" tvg-country="sv", Cine Mexicano
 http://190.109.31.53:9000/play/a05b/index.m3u8
 #EXTINF:0 type="stream" channelId="3629" group="TV MX" audio-track="spa" tvg-country="gt", Cine Mexicano
@@ -315,8 +313,6 @@ http://181.78.21.46:8009/play/a02z
 http://45.68.35.218:4001/play/a01g/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logos/images/c/cf/DreamWorks_Animation_2016_%28Moon_Boy%29_%28Print%29.png/revision/latest?cb=20221214051754&path-prefix=vi" audio-track="spa" aspect-ratio="16:9" tvg-country="mx", DreamWorks Channel (960p)
 http://200.115.120.1:8000/play/ca005/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Toons & Anime" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/800px-FunBox_TV_logo.svg.png" tvg-country="pe", FunBox
-http://190.121.42.18:8000/play/a00s/index.m3u8
 #EXTINF:0 type="stream" channelId="ADULT SWIM.mx" name="ADULT SWIM.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa"  shift="-1", Adult Swim HD
 http://201.182.248.254:8888/play/a0br/index.m3u8
 #EXTINF:0 type="stream" channelId="ADULT SWIM.mx" name="ADULT SWIM.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa" tvg-country="co"  shift="-1", Adult Swim (720p)
@@ -437,12 +433,16 @@ http://181.78.105.146:6060/play/a00k
 http://181.78.105.146:8800/play/a018
 #EXTINF:0 type="stream" channelId="2584" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.HBO_FAMILY.png.792c060967a9f7d2d833ff139bf58580.png" audio-track="spa" tvg-country="mx", HBO Family HD
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
-#EXTINF:0 type="stream" channelId="2583" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1fBKB8S4YDkt6mC_ng4TcTrx5g2ZncwZi" audio-track="spa" tvg-country="ar", HBO Signature
+#EXTINF:0 type="stream" channelId="2583" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1fBKB8S4YDkt6mC_ng4TcTrx5g2ZncwZi" audio-track="spa" tvg-country="ar", HBO Signature (720p)
 http://190.60.55.141:9083/play/a0f7/index.m3u8
-#EXTINF:0 type="stream" channelId="2583" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1fBKB8S4YDkt6mC_ng4TcTrx5g2ZncwZi" audio-track="spa" tvg-country="ar", HBO Signature (720p)
+#EXTINF:0 type="stream" channelId="2583" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1fBKB8S4YDkt6mC_ng4TcTrx5g2ZncwZi" audio-track="spa" tvg-country="ar", HBO Signature (720p)
 http://179.1.146.21:8000/play/a0f0/index.m3u8
-#EXTINF:0 type="stream" channelId="2725" group="Películas" audio-track="spa" tvg-country="ar", HBO Mundi (720p)
+#EXTINF:0 type="stream" channelId="2583" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1fBKB8S4YDkt6mC_ng4TcTrx5g2ZncwZi" audio-track="spa" subtitles="spa" tvg-country="ar", HBO Signature (720p)
+http://45.71.254.1:8000/play/a0pk/index.m3u8
+#EXTINF:0 type="stream" channelId="2725" group="Series" audio-track="spa" tvg-country="ar", HBO Mundi (720p)
 http://45.71.254.1:8000/play/a0pl/index.m3u8
+#EXTINF:0 type="stream" channelId="2725" group="Series" audio-track="spa" tvg-country="ar", HBO Mundi (720p)
+http://200.59.188.3:8000/play/a0pq
 #EXTINF:47 type="stream" channelId="2896" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.small.1280px-SpaceLogo_svg.png.8656b1ea361aa1f2a74ab7e3694a46b5.png.34065be2cdfae3c55afb52aa83ccdfb8.png" audio-track="spa" tvg-country="mx", Space Full HD (México)
 http://190.11.225.124:5000/live/space_hd/playlist.m3u8
 #EXTINF:11 type="stream" channelId="2896" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.small.1280px-SpaceLogo_svg.png.8656b1ea361aa1f2a74ab7e3694a46b5.png.34065be2cdfae3c55afb52aa83ccdfb8.png" audio-track="spa" shift="-2" tvg-country="ar", Space HD (Colombia)
@@ -473,6 +473,8 @@ http://181.78.21.46:8009/play/a034
 http://181.78.105.146:8800/play/a04w
 #EXTINF:0 type="stream" channelId="1214" name="SONY MOVIES.mx" group="Películas" audio-track="spa", Sony Movies HD
 http://201.182.248.254:8888/play/a08y/index.m3u8
+#EXTINF:0 type="stream" channelId="1214" name="SONY MOVIES.mx" group="Películas" tvg-country="mx", Sony Movies HD
+http://45.71.254.1:8000/play/a0dm/index.m3u8
 #EXTINF:0 type="stream" channelId="2903" group="Películas" audio-track="spa" shift="2" tvg-country="mx", Warner HD
 http://181.176.153.106:8090/play/a0q7/index.m3u8
 #EXTINF:0 type="stream" channelId="2903" group="Películas" audio-track="spa" shift="2" tvg-country="mx", Warner HD
@@ -615,6 +617,8 @@ http://181.78.105.146:8800/play/a04x
 http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:0 type="stream" channelId="291" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_01/large.MC_2022_Blanco.png.68cae2d26fbd99857904443f17e8bd0e.png" audio-track="spa" tvg-country="mx", MultiCinema (480p)
 http://200.115.96.61:9090/play/a0i0/index.m3u8
+#EXTINF:0 type="stream" channelId="291" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_01/large.MC_2022_Blanco.png.68cae2d26fbd99857904443f17e8bd0e.png" audio-track="spa" tvg-country="mx", Multicinema (480p)
+http://45.71.254.1:8000/play/a0cc/index.m3u8
 #EXTINF:0 type="stream" channelId="292" group="Películas" aspect-ratio="16:9" tvg-country="pe", MultiPremier
 http://45.5.116.178:8000/play/a058/index.m3u8
 #EXTINF:11 type="stream" channelId="292" group="Películas" audio-track="spa" tvg-country="ar", MultiPremier
@@ -645,6 +649,8 @@ http://190.109.31.53:9000/play/a05m/index.m3u8
 http://190.109.31.53:9000/play/a05u/index.m3u8
 #EXTINF:11 type="stream" channelId="4774" group="Películas" audio-track="spa" tvg-country="ar", Canal Claro HD
 http://45.228.233.254:18000/play/a075/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://static.wikia.nocookie.net/doblaje/images/d/d3/Clover-channel2021-logo-px.png/revision/latest?cb=20220608032912&path-prefix=es" audio-track="spa" tvg-country="ar", Clover Channel (720p)
+http://181.176.153.104:8090/play/a160/index.m3u8
 #EXTINF:0 type="stream" tvg-id="POPCORN.mx" tvg-name="POPCORN.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1gTyvy1JROVouOmYrpoFC2De8sKXN8dTs=w1366-h641-iv1" audio-track="spa" tvg-country="mx"  shift="-1", Popcorn Central HD
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.300px-CinecanalLA.png.ff24c2fa3b15b3116660e37f579eb1f8.png" audio-track="spa" shift="1" tvg-country="mx", CineCanal HD
@@ -753,11 +759,11 @@ http://190.60.38.45:8000/play/a0fi/index.m3u8
 http://190.25.157.67:8000/play/a06u
 #EXTINF:0 type="stream" channelId="1720" group="LifeStyle" audio-track="spa" tvg-country="ar" catchup="default", Food Network HD
 http://190.171.83.2:4000/play/a0i0/index.m3u8
-#EXTINF:11 type="stream" channelId="1311" group="LifeStyle" audio-track="spa" tvg-country="pe", Sun Channel HD
+#EXTINF:11 type="stream" channelId="1310" group="LifeStyle" audio-track="spa" tvg-country="pe", Sun Channel (720p)
 http://45.228.233.254:18000/play/a02r/index.m3u8
 #EXTINF:0 type="stream" channelId="1311" group="LifeStyle" audio-track="spa" tvg-country="ar", Sun Channel HD
-http://201.182.248.254:8888/play/a0bx/index.m3u8
-#EXTINF:0 type="stream" channelId="1311" group="LifeStyle" audio-track="spa" tvg-country="sv", Sun Channel HD
+http://45.71.254.1:8000/play/a0nm/index.m3u8
+#EXTINF:0 type="stream" channelId="1311" group="LifeStyle" audio-track="spa" tvg-country="co", Sun Channel HD
 http://104.243.47.2:9003/play/a0kp/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Teleplay" group="TV MX" logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/10/TelePlay_Logo_BLANCO.png" tvg-country="mx", Teleplay
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
@@ -833,7 +839,7 @@ http://45.5.116.178:8000/play/a03d/index.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="3543" group="Música" aspect-ratio="16:9" tvg-country="mx", Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
-#EXTINF:0 type="stream" channelId="2902" group="LifeStyle" audio-track="spa" tvg-country="mx" catchup="default", VH1 HD
+#EXTINF:0 type="stream" channelId="151" group="LifeStyle" audio-track="spa" tvg-country="mx" catchup="default", VH1 HD
 https://streamer1.nexgen.bz/VH1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Música" logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" tvg-country="mx", Caribbean Advantage TV HD
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
@@ -924,9 +930,9 @@ http://190.25.157.67:8000/play/a0ff
 #EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="pe", ESPN HD CO
 http://190.60.38.45:8000/play/a0a0/index.m3u8
 #EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="ar", ESPN HD AR
-http://45.71.254.1:8000/play/a0nu/index.m3u8
+http://181.176.153.104:8090/play/a0rs/index.m3u8
 #EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="ar", ESPN HD AR
-http://190.25.157.67:8000/play/a0fa
+http://190.25.157.67:8000/play/a0g5
 #EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="ar", ESPN HD AR
 http://45.68.35.218:4001/play/a02t/index.m3u8
 #EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" audio-track="spa" tvg-country="pe", ESPN 2 HD CO
@@ -953,8 +959,10 @@ http://181.78.74.69:8000/play/a05v/index.m3u8
 http://181.78.74.69:8000/play/a06q/index.m3u8
 #EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.ESPN_7.webp.a32ca3e23216d2bc813f8f6193294826.webp" audio-track="spa" tvg-country="pe", ESPN 7 HD
 http://190.25.157.67:8000/play/a0c7
-#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", DSports
-http://45.5.117.182:8000/play/cj9t/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", Direct Sports HD
+http://200.59.188.3:8000/play/a0xe
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", Direct Sports HD
+http://200.59.188.3:8000/play/a0xf
 #EXTINF:0 type="stream" channelId="3802" group="Deportes" tvg-country="ar", TyC Sports (720p)
 http://45.71.254.1:8000/play/a0ft/index.m3u8
 #EXTINF:0 type="stream" channelId="3802" group="Deportes" tvg-country="ar", TyC Sports (720p)
