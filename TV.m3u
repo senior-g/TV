@@ -647,10 +647,14 @@ http://200.115.120.1:8000/play/ca120/index.m3u8
 http://190.109.31.53:9000/play/a05m/index.m3u8
 #EXTINF:0 type="stream" channelId="3812" group="Películas" audio-track="spa" tvg-country="sv", Ultra Clásico
 http://190.109.31.53:9000/play/a05u/index.m3u8
-#EXTINF:11 type="stream" channelId="4774" group="Películas" audio-track="spa" tvg-country="ar", Canal Claro HD
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/330px-Claro_TV_wordmark.svg.png" audio-track="spa" tvg-country="sv", Claro Cinema (720p)
+http://200.59.188.3:8000/play/a043
+#EXTINF:11 type="stream" channelId="4774" group="Películas" logo=""audio-track="spa" tvg-country="ar", Canal Claro HD
 http://45.228.233.254:18000/play/a075/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://static.wikia.nocookie.net/doblaje/images/d/d3/Clover-channel2021-logo-px.png/revision/latest?cb=20220608032912&path-prefix=es" audio-track="spa" tvg-country="ar", Clover Channel (720p)
 http://181.176.153.104:8090/play/a160/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://static.wikia.nocookie.net/doblaje/images/d/d3/Clover-channel2021-logo-px.png/revision/latest?cb=20220608032912&path-prefix=es" audio-track="spa" tvg-country="ar", Clover Channel (720p)
+http://200.59.188.3:8000/play/a0te
 #EXTINF:0 type="stream" tvg-id="POPCORN.mx" tvg-name="POPCORN.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1gTyvy1JROVouOmYrpoFC2De8sKXN8dTs=w1366-h641-iv1" audio-track="spa" tvg-country="mx"  shift="-1", Popcorn Central HD
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.300px-CinecanalLA.png.ff24c2fa3b15b3116660e37f579eb1f8.png" audio-track="spa" shift="1" tvg-country="mx", CineCanal HD
