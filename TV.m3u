@@ -61,7 +61,7 @@ https://azt-cl.otteravision.com/azt/cl/cl_1080p.m3u8
 http://nxt.plus:8080/jesus01/jesus01/160510
 #EXTINF:0 type="stream" channelId="4666" name="AZ CINEMA.mx" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest?cb=20230707174037" audio-track="spa" tvg-country="mx" shift="-1", AZ Cinema HD
 http://181.78.21.46:8009/play/a030
-#EXTINF:0 type="stream" channelId="3812" group="Películas" audio-track="spa" tvg-country="mx", Ultra Clásico HD
+#EXTINF:0 type="stream" channelId="3812" group="Películas" audio-track="spa" tvg-country="us", Ultra Clásico HD
 http://190.109.31.53:9000/play/a05u/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/330px-Claro_TV_wordmark.svg.png" audio-track="spa" tvg-country="mx", Claro Cinema (720p)
 http://200.59.188.3:8000/play/a043
@@ -641,11 +641,19 @@ http://45.228.233.254:18000/play/a01w/index.m3u8
 http://181.78.105.146:8800/play/a04q
 #EXTINF:0 type="stream" channelId="326" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Europa_Europa_2001.svg/revision/latest?cb=20210517132924&path-prefix=es" audio-track="spa" tvg-country="ar", Europa Europa HD
 http://45.228.233.254:18000/play/a021/index.m3u8
-#EXTINF:0 type="stream" channelId="326" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Europa_Europa_2001.svg/revision/latest?cb=20210517132924&path-prefix=es" tvg-country="ar" catchup="default", Europa Europa HD
+#EXTINF:0 type="stream" channelId="326" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Europa_Europa_2001.svg/revision/latest?cb=20210517132924&path-prefix=es" tvg-country="ar", Europa Europa HD
 http://181.78.105.146:8800/play/a04v
-#EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" audio-track="spa" tvg-country="co", Pánico (720p)
+#EXTINF:0 type="stream" channelId="3813" group="Películas" audio-track="spa" tvg-country="us", Ultra Familia HD
+http://190.109.31.53:9000/play/a05v/index.m3u8
+#EXTINF:0 type="stream" channelId="3809" group="Películas" audio-track="spa" tvg-country="us", Ultra Kidz HD
+http://190.109.31.53:9000/play/a063/index.m3u8
+#EXTINF:0 type="stream" channelId="3814" group="Películas" audio-track="spa" tvg-country="us", Ultra Luna HD
+http://190.109.31.53:9000/play/a062/index.m3u8
+#EXTINF:0 type="stream" channelId="3810" group="Películas" audio-track="spa" tvg-country="us", Ultra Tainment HD
+http://190.109.31.53:9000/play/a064/index.m3u8
+#EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" audio-track="spa" tvg-country="pe", Pánico (720p)
 http://200.115.120.1:8000/play/ca120/index.m3u8
-#EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest?cb=20161218051240" audio-track="spa" tvg-country="sv", Pánico HD
+#EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest?cb=20161218051240" audio-track="spa" tvg-country="us", Pánico HD
 http://190.109.31.53:9000/play/a05m/index.m3u8
 #EXTINF:0 type="stream" channelId="3741" group="Películas" audio-track="spa" tvg-country="sv", Cinema Platino HD
 http://190.109.31.53:9000/play/a05c/index.m3u8
@@ -657,14 +665,6 @@ http://181.176.153.104:8090/play/a160/index.m3u8
 http://200.59.188.3:8000/play/a0te
 #EXTINF:0 type="stream" tvg-id="POPCORN.mx" tvg-name="POPCORN.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1gTyvy1JROVouOmYrpoFC2De8sKXN8dTs=w1366-h641-iv1" audio-track="spa" tvg-country="mx"  shift="-1", Popcorn Central HD
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
-#EXTINF:0 type="stream" channelId="3813" group="Películas" audio-track="spa" tvg-country="sv", Ultra Familia HD
-http://190.109.31.53:9000/play/a05v/index.m3u8
-#EXTINF:0 type="stream" channelId="3809" group="Películas" audio-track="spa" tvg-country="sv", Ultra Kidz HD
-http://190.109.31.53:9000/play/a063/index.m3u8
-#EXTINF:0 type="stream" channelId="3814" group="Películas" audio-track="spa" tvg-country="sv", Ultra Luna HD
-http://190.109.31.53:9000/play/a062/index.m3u8
-#EXTINF:0 type="stream" channelId="3810" group="Películas" audio-track="spa" tvg-country="sv", Ultra Tainment HD
-http://190.109.31.53:9000/play/a064/index.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.300px-CinecanalLA.png.ff24c2fa3b15b3116660e37f579eb1f8.png" audio-track="spa" shift="1" tvg-country="mx", CineCanal HD
 http://45.71.254.1:8000/play/a0db/index.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.300px-CinecanalLA.png.ff24c2fa3b15b3116660e37f579eb1f8.png" audio-track="spa" shift="1" tvg-country="mx", CineCanal HD
@@ -809,7 +809,7 @@ http://45.68.35.218:4001/play/a00g/index.m3u8
 http://190.109.31.53:9000/play/a05a/index.m3u8
 #EXTINF:0 type="stream" channelId="1959" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1yg1j-kRqV-bXQW0wzKpfn0wCNURktlqj=w1366-h641-iv1" tvg-country="sv", Bandamax HD
 http://45.5.117.182:8000/play/98ui/index.m3u8
-#EXTINF:0 type="stream" channelId="3811" name="ULTRA BANDA.mx" group="Música"  shift="-1", Ultra Banda HD
+#EXTINF:0 type="stream" channelId="3811" name="ULTRA BANDA.mx" group="Música" tvg-country="us", Ultra Banda HD
 http://190.109.31.53:9000/play/a05t/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/119hUgkJKgpHJTpUsJFKecjoQ8hodltE3=w1366-h641-iv1" tvg-country="mx", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
