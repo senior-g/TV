@@ -169,15 +169,15 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8
 http://181.78.105.146:2000/play/a04i/index.m3u8
 #EXTINF:0 type="stream" channelId="340" name="Mexiquense TV.mx" group="TV MX" tvg-country="mx", Mexiquense TV
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 type="stream" channelId="2529" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1Bv2BJsOyNUccYPcCoXJrRbUYHGpSilo0=w1366-h641-iv1" tvg-country="mx", Canal 33: Tijuana
+#EXTINF:0 type="stream" channelId="2529" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1Bv2BJsOyNUccYPcCoXJrRbUYHGpSilo0=w1366-h641-iv1" tvg-country="mx", Canal 33 - Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="CANAL DEL CONGRESO.mx" group="TV MX" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_CC_Texto_Negro.png" tvg-country="mx" shift="-1", Canal del Congreso: Senado
-https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/chunklist_w1120649403_b3003000.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="CANAL DEL CONGRESO.mx" group="TV MX" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_CC_Texto_Negro.png" tvg-country="mx" shift="-1", Canal del Congreso: Diputados
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/chunklist_w33021482_b3003000.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CANAL DEL CONGRESO.mx" group="TV MX" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_CC_Texto_Negro.png" tvg-country="mx" shift="-1", Canal del Congreso - Senado
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.2_kd5oiNTTWO0gEOFc423456787er_adaptive.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CANAL DEL CONGRESO.mx" group="TV MX" logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_CC_Texto_Negro.png" tvg-country="mx" shift="-1", Canal del Congreso - Diputados
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.3_kd5oiNTTWO0gEOFc875423kf52_adaptive.m3u8
 #EXTINF:0 type="stream" channelId="JUSTICIA TV.mx" name="JUSTICIA TV.mx" group="TV MX" logo="https://www.cjf.gob.mx/salaprensa/img/identificadores/justiciaTV.png" tvg-country="mx" shift="-1", Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3774" name="MARIAVISIÃƒN.mx" group="Religión" logo="https://lh3.googleusercontent.com/u/0/d/1IFSDcOL96Qa5pkOO5kSKxGe6WcT05nF3=w1366-h647-iv1" shift="-1", María Visión
+#EXTINF:0 type="stream" channelId="3774" name="MARIAVISIÃƒN.mx" group="Religión" logo="https://lh3.googleusercontent.com/u/0/d/1IFSDcOL96Qa5pkOO5kSKxGe6WcT05nF3=w1366-h647-iv1" shift="-1", María Visión HD
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3774" name="MARIAVISIÓN.mx" group="Religión" logo="https://cdn.bio.link/uploads/profile_pictures/2022-06-14/aQmg3W6UdOCipiyuDucQszmQjiRjH8Cw.png" tvg-country="gt", María Visión Capilla
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Privado2/playlist.m3u8
@@ -643,18 +643,28 @@ http://181.78.105.146:8800/play/a04q
 http://45.228.233.254:18000/play/a021/index.m3u8
 #EXTINF:0 type="stream" channelId="326" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Europa_Europa_2001.svg/revision/latest?cb=20210517132924&path-prefix=es" tvg-country="ar" catchup="default", Europa Europa HD
 http://181.78.105.146:8800/play/a04v
-#EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" audio-track="spa" tvg-country="co", Pánico
+#EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" audio-track="spa" tvg-country="co", Pánico (720p)
 http://200.115.120.1:8000/play/ca120/index.m3u8
 #EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest?cb=20161218051240" audio-track="spa" tvg-country="sv", Pánico HD
 http://190.109.31.53:9000/play/a05m/index.m3u8
-#EXTINF:11 type="stream" channelId="4774" group="Películas" logo=""audio-track="spa" tvg-country="co", Canal Claro HD
+#EXTINF:0 type="stream" channelId="3741" group="Películas" audio-track="spa" tvg-country="sv", Cinema Platino HD
+http://190.109.31.53:9000/play/a05c/index.m3u8
+#EXTINF:11 type="stream" channelId="4774" group="Películas" logo=""audio-track="spa" tvg-country="sv", Canal Claro HD
 http://45.228.233.254:18000/play/a075/index.m3u8
+#EXTINF:0 type="stream" channelId="3813" group="Películas" audio-track="spa" tvg-country="mx", Ultra Familia HD
+http://190.109.31.53:9000/play/a05v/index.m3u8
+#EXTINF:0 type="stream" channelId="3809" group="Películas" audio-track="spa" tvg-country="mx", Ultra Kidz HD
+http://190.109.31.53:9000/play/a063/index.m3u8
+#EXTINF:0 type="stream" channelId="3814" group="Películas" audio-track="spa" tvg-country="mx", Ultra Luna HD
+http://190.109.31.53:9000/play/a062/index.m3u8
+#EXTINF:0 type="stream" channelId="3810" group="Películas" audio-track="spa" tvg-country="mx", Ultra Tainment HD
+http://190.109.31.53:9000/play/a064/index.m3u8
+#EXTINF:0 type="stream" tvg-id="POPCORN.mx" tvg-name="POPCORN.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1gTyvy1JROVouOmYrpoFC2De8sKXN8dTs=w1366-h641-iv1" audio-track="spa" tvg-country="mx"  shift="-1", Popcorn Central HD
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp" audio-track="spa" tvg-country="cl", Clover Channel (720p)
 http://181.176.153.104:8090/play/a160/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp" audio-track="spa" tvg-country="pe", Clover Channel (720p)
 http://200.59.188.3:8000/play/a0te
-#EXTINF:0 type="stream" tvg-id="POPCORN.mx" tvg-name="POPCORN.mx" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1gTyvy1JROVouOmYrpoFC2De8sKXN8dTs=w1366-h641-iv1" audio-track="spa" tvg-country="mx"  shift="-1", Popcorn Central HD
-https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.300px-CinecanalLA.png.ff24c2fa3b15b3116660e37f579eb1f8.png" audio-track="spa" shift="1" tvg-country="mx", CineCanal HD
 http://45.71.254.1:8000/play/a0db/index.m3u8
 #EXTINF:0 type="stream" channelId="284" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.300px-CinecanalLA.png.ff24c2fa3b15b3116660e37f579eb1f8.png" audio-track="spa" shift="1" tvg-country="mx", CineCanal HD
@@ -669,7 +679,7 @@ http://179.1.87.75:8098/play/a0h8/index.m3u8
 http://190.25.157.67:8000/play/a0ae
 #EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1ifAZeZQozc_6AylT3mhnNhDhX1uD_bTD=w1366-h641-iv1" audio-track="spa" tvg-country="cl", +Cine HD
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:0 type="stream" channelId="283" group="Películas" logo="https://images.fubo.tv/station_logos/cine-latino_m.png" audio-track="spa" tvg-country="pe", Cine Latino
+#EXTINF:0 type="stream" channelId="283" group="Películas" logo="https://images.fubo.tv/station_logos/cine-latino_m.png" audio-track="spa" tvg-country="pe", Cine Latino HD
 http://181.78.105.146:8800/play/a06x
 #EXTINF:0 type="stream" channelId="-1" group="Películas" logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-1024x576.png" tvg-country="pe", Cine Premium HD
 http://181.78.21.46:8009/play/a00n
