@@ -288,16 +288,16 @@ http://190.60.56.41:8000/play/a00i/index.m3u8
 #EXTINF:0 type="stream" channelId="334" group="Toons & Anime" logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png/revision/latest/scale-to-width-down/1200?cb=20240725134816" audio-track="spa" tvg-country="ar", Nickelodeon HD
 http://190.25.157.67:8000/play/a0f5
 #EXTINF:11 type="stream" channelId="334" group="Toons & Anime" logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png/revision/latest/scale-to-width-down/1200?cb=20240725134816" tvg-country="ar", Nickelodeon HD
-http://45.228.233.254:18000/play/a03y/index.m3u8
+http://190.60.55.141:9083/play/a0dk/index.m3u8
 #EXTINF:0 type="stream" channelId="334" group="Toons & Anime" logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png/revision/latest/scale-to-width-down/1200?cb=20240725134816" tvg-country="ar" catchup="default", Nickelodeon HD
 http://181.78.74.69:8000/play/a05y/index.m3u8
 #EXTINF:0 type="stream" channelId="334" group="Toons & Anime" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" audio-track="spa" tvg-country="ar", Nickelodeon HD
 http://181.176.153.104:8090/play/a0qh/index.m3u8
 #EXTINF:0 type="stream" channelId="334" group="Toons & Anime" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" audio-track="spa" tvg-country="ar", Nickelodeon HD
 http://181.78.105.146:6060/play/a03g/index.m3u8
-#EXTINF:0 type="stream" channelId="2708" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Cl%C3%A1sico.png/revision/latest?cb=20240623002542&path-prefix=es" tvg-country="ar", Nick Clásico
+#EXTINF:0 type="stream" channelId="2708" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Cl%C3%A1sico.png/revision/latest?cb=20240623002542&path-prefix=es" tvg-country="ar", Nick Clásico HD
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="3430" group="Toons & Anime" tvg-country="ar", Nickelodeon Teen
+#EXTINF:0 type="stream" channelId="3430" group="Toons & Anime" tvg-country="ar", Nickelodeon Teen HD
 https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:11 type="stream" channelId="2709" group="Toons & Anime" audio-track="spa" tvg-country="ar", TeenNick HD
 http://45.228.233.254:18000/play/a01s/index.m3u8
@@ -425,6 +425,8 @@ http://200.59.188.3:8000/play/a00m
 http://179.1.146.21:8000/play/a03r/index.m3u8
 #EXTINF:0 type="stream" channelId="361" group="Películas" audio-track="spa" shift="-2" tvg-country="ar", HBO Pop HD
 http://190.60.38.45:8000/play/a09t/index.m3u8
+#EXTINF:0 type="stream" channelId="361" group="Películas" audio-track="spa" shift="-2" tvg-country="ar", HBO Pop HD
+http://190.60.55.141:9083/play/a0ey/index.m3u8
 #EXTINF:0 type="stream" channelId="2584" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.HBO_FAMILY.png.792c060967a9f7d2d833ff139bf58580.png" audio-track="spa" tvg-country="mx", HBO Family FHD
 http://181.78.105.146:6060/play/a00k?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="2584" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_02/large.HBO_FAMILY.png.792c060967a9f7d2d833ff139bf58580.png" audio-track="spa" tvg-country="mx", HBO Family FHD
@@ -531,6 +533,8 @@ http://181.78.21.46:8009/play/a01f
 http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1304" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.FX-logo_svg.png.272606df2ab6d9faa8a60cc14862d0f0.png" audio-track="spa" tvg-country="pe", FX HD (Perú)
 http://201.182.248.254:8888/play/a0b2/index.m3u8
+#EXTINF:0 type="stream" channelId="1304" group="Películas" logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_12/large.FX-logo_svg.png.272606df2ab6d9faa8a60cc14862d0f0.png" audio-track="spa" tvg-country="pe", FX HD (Perú)
+http://201.182.248.254:8888/play/a0dv/index.m3u8
 #EXTINF:0 type="stream" channelId="2501" group="Series" audio-track="spa" tvg-country="mx", AMC (720p)
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:11 type="stream" channelId="2501" group="Películas" audio-track="spa" tvg-country="pe", AMC FHD (Colombia)
@@ -541,6 +545,8 @@ http://181.78.105.146:8800/play/a04s
 http://190.25.157.67:8000/play/a0b1
 #EXTINF:0 type="stream" channelId="2501" group="Películas" audio-track="spa" tvg-country="ar" catchup="default", AMC FHD (Argentina)
 http://181.78.74.69:8000/play/a06n/index.m3u8
+#EXTINF:0 type="stream" channelId="2501" group="Películas" audio-track="spa" tvg-country="ar" catchup="default", AMC FHD (Argentina)
+http://201.182.248.254:8888/play/a0da/index.m3u8
 #EXTINF:0 type="stream" channelId="1052" group="Películas" audio-track="spa" tvg-country="mx", TNT (720p) México
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:0 type="stream" channelId="2900" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1b3LP6DPS_oLTXjNelrqoIJHFds_I-Gxk=w1366-h641-iv1" audio-track="spa" tvg-country="sv", TNT Full HD (Centroamérica)
@@ -573,10 +579,14 @@ http://190.25.157.67:8000/play/a0cd
 http://45.5.116.178:8000/play/a01v/index.m3u8
 #EXTINF:0 type="stream" channelId="3228" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1GKCCUr4YluN6Hf-Drz9zFWfGTiw45SzC=w1366-h641-iv1" audio-track="spa" tvg-country="co", TNT Novelas HD
 http://181.176.153.104:8090/play/a17l/index.m3u8
-#EXTINF:0 type="stream" channelId="1192" group="Series" logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" audio-track="spa" tvg-country="mx", USA HD
-http://181.78.21.46:8009/play/a03i
 #EXTINF:0 type="stream" channelId="73" group="Series" logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" audio-track="spa" tvg-country="mx", USA (720p)
 http://179.1.87.75:8098/play/a0rk/index.m3u8
+#EXTINF:0 type="stream" channelId="73" group="Series" logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" audio-track="spa" tvg-country="mx", USA (720p)
+http://179.1.87.75:8098/play/a0e4/index.m3u8
+#EXTINF:0 type="stream" channelId="1192" group="Series" logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" audio-track="spa" tvg-country="mx", USA HD
+http://181.78.21.46:8009/play/a03i
+#EXTINF:0 type="stream" channelId="1192" group="Series" logo="https://img.usanetwork.com/files/USA-Logo-White-450x198.png" audio-track="spa" tvg-country="mx", USA HD
+http://201.182.248.254:8888/play/a09z/index.m3u8
 #EXTINF:48 type="stream" channelId="1573" group="Series" tvg-country="mx", AXN (720p) México
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2246" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1VzHnkw0IiJPCDDzOTX_wvek0b6ecgCw2=w1366-h641-iv1" tvg-country="pe", AXN Full HD (Perú)
@@ -775,8 +785,8 @@ http://190.171.83.2:4000/play/a0i0/index.m3u8
 http://45.228.233.254:18000/play/a02r/index.m3u8
 #EXTINF:0 type="stream" channelId="1311" group="LifeStyle" audio-track="spa" tvg-country="ar", Sun Channel HD
 http://45.71.254.1:8000/play/a0nm/index.m3u8
-#EXTINF:0 type="stream" channelId="1311" group="LifeStyle" audio-track="spa" tvg-country="co", Sun Channel HD
-http://104.243.47.2:9003/play/a0kp/index.m3u8
+#EXTINF:0 type="stream" channelId="1311" group="LifeStyle" audio-track="spa" tvg-country="pe", Sun Channel HD
+http://201.182.248.254:8888/play/a0cy/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Teleplay" group="TV MX" logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/10/TelePlay_Logo_BLANCO.png" tvg-country="mx", Teleplay
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" group="TV MX" logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" tvg-country="mx", Frecuencia Musical TV
