@@ -150,7 +150,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:0 type="stream" channelId="4690" group="Noticias" audio-track="spa" tvg-country="ar", HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:0 type="stream" channelId="3744" name="EL FINANCIERO.mx" group="Noticias" logo="https://www.elfinanciero.com.mx/pf/resources/images/elfinanciero/header_logo.png?d=273" tvg-country="mx" shift="-1", El Financiero Bloomberg TV
-https://cdndirector.dailymotion.com/cdn/live/video/x90qe0k.m3u8?sec=ENgUiqRj1_i1Ne_1nMcZ3MvGx4fnbrxGzumI8sJPE0P0nYfDYFPPKMHZaSN42VM3gZ-4g04oQ_mn-TeqTDF9igpm1Rr1De0ScKxi6YGdu_YWohEPb0ml1u61HuWEVbZF&dmTs=342714&dmV1st=9d3b3a65-3899-b2e3-1049-34fe20e808d1
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(CZY-45qmxU5iHWK9tvb0S7CPtcvowzz4acBiSq9SX52tQNNWqQMEOtYLTcQcfJ-rfgOvPN2I3uLO-gJSLOteAihArwA58k4v5mhHPMHUm9hPm-4uRoa3VQsyZ1uuDFaP)/cloud/3/x90qe0k/d/live-1080.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1yzwfHLAO7SvZhXfHUR29a_5KZYhsumSY=w1366-h641-iv1" tvg-country="mx", MVS Noticias Radio
 https://252390.global.ssl.fastly.net/6900191ab6167d6d573a18ae/live_5b7e7bb0b6bf11f09ec4b3e7eb0c4d2a/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="2695" group="Noticias" logo"https://logodix.com/logo/1830365.png" audio-track="spa" tvg-country="mx", Excélsior TV
@@ -1009,6 +1009,7 @@ https://is.gd/rVSZEu?US600011Q2.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 type="stream" channelId="2894" group="Deportes" audio-track="spa" tvg-country="co", NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
 
 
 
