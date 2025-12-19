@@ -150,9 +150,9 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:0 type="stream" channelId="4690" group="Noticias" audio-track="spa" tvg-country="ar", HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:0 type="stream" channelId="3744" name="EL FINANCIERO.mx" group="Noticias" logo="https://www.elfinanciero.com.mx/pf/resources/images/elfinanciero/header_logo.png?d=273" tvg-country="mx" shift="-1", El Financiero Bloomberg TV
-https://www.dailymotion.com/cdn/live/video/x90qe0k.m3u8?sec=xrQjpAriucqG7HrvjicCPLBfWe0P0mcJZaeeaL1B3KRnOlUArOG3LXlo1L4TdkiDfuDADQh8bCQUreps3dM8fIysgc6o-brvmUZRKdNcfftuQx8KzwAAzaqGpEcurcsi&dmTs=215078&dmV1st=ce2449d2-68ff-955a-9431-b3a8457c7320
+https://cdndirector.dailymotion.com/cdn/live/video/x90qe0k.m3u8?sec=ENgUiqRj1_i1Ne_1nMcZ3MvGx4fnbrxGzumI8sJPE0P0nYfDYFPPKMHZaSN42VM3gZ-4g04oQ_mn-TeqTDF9igpm1Rr1De0ScKxi6YGdu_YWohEPb0ml1u61HuWEVbZF&dmTs=342714&dmV1st=9d3b3a65-3899-b2e3-1049-34fe20e808d1
 #EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1yzwfHLAO7SvZhXfHUR29a_5KZYhsumSY=w1366-h641-iv1" tvg-country="mx", MVS Noticias Radio
-https://stream.castr.com/6900191ab6167d6d573a18ae/live_5b7e7bb0b6bf11f09ec4b3e7eb0c4d2a/tracks-a1/index.fmp4.m3u8
+https://252390.global.ssl.fastly.net/6900191ab6167d6d573a18ae/live_5b7e7bb0b6bf11f09ec4b3e7eb0c4d2a/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="2695" group="Noticias" logo"https://logodix.com/logo/1830365.png" audio-track="spa" tvg-country="mx", Excélsior TV
 
 #EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://static.wikia.nocookie.net/logopedia/images/2/28/El_Pa%C3%ADs.svg/revision/latest?cb=20211012172044&path-prefix=es" tvg-country="es", EL PAÍS TV
@@ -162,7 +162,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:0 type="stream" channelId="119" group="Noticias" logo="https://resources.streamotion.com.au/production/flash/linear-provider-logos/bloomberg.png" audio-track="spa" tvg-country="ar", Bloomberg TV
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2489" group="TV MX" logo="https://imgs.search.brave.com/M3MPlJo5fR78wQYlQmknu6zGtRYgMyZfHdumsIP86Vo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW5h/bG9uY2UubXgvUkVT/VC9kYXRhL2ltYWdl/cy9jYW5hbF9vbmNl/X2xvZ28yMDI1X2hv/cml6b250YWxfYmxh/bmNvX3NtLnBuZw" tvg-country="mx", Canal Once
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:0 type="stream" channelId="385" group="TV MX" logo="https://servicios.presupuesto.unam.mx/imagenes/ndx/tvunam.png" tvg-country="mx", TV UNAM
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3771" group="TV MX" shift="-6" tvg-country="mx", Ingenio TV
@@ -1009,6 +1009,7 @@ https://is.gd/rVSZEu?US600011Q2.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 type="stream" channelId="2894" group="Deportes" audio-track="spa" tvg-country="co", NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
 
 
 
