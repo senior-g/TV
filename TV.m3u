@@ -661,58 +661,68 @@ http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/28416.m3u8
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117738.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-name="FOX SPORTS PREMIUM.mx" logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Fox_Sports_Premium_MX_II.svg" group="Deportes" tvg-country="mx", FOX Deportes PREMIUM (720p)
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/154295.m3u8
-#EXTINF:0 type="stream" channelId="3748" group="Deportes" logo="https://static.wikia.nocookie.net/disney/images/3/3a/2000px-ESPN_Deportes_logo.png" tvg-country="us", ESPN Deportes HD
+#EXTINF:0 type="stream" channelId="3748" group="Deportes" logo="https://static.wikia.nocookie.net/disney/images/3/3a/2000px-ESPN_Deportes_logo.png" tvg-country="sv", ESPN Deportes HD
 http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591971.m3u8
-#EXTINF:11 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="mx", ESPN México HD
+#EXTINF:11 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="sv", ESPN México HD
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/28422.m3u8
 #EXTINF:11 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="sv", ESPN Centro (720p)
 http://201.216.147.90:8729/play/a0p0
-#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="mx", ESPN 2 México (720p)
+#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 México (720p)
 http://by.questreams.com:83/live/Verria/0695348721/775800.ts
-#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="mx", ESPN 2 México (720p)
+#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 México (720p)
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117725.m3u8
 #EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 Centro (720p)
 http://201.216.147.90:8729/play/a0p1
-#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="mx", ESPN 2 Centro Full HD
+#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 Centro Full HD
 http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="mx", ESPN 3 México (720p)
+#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="sv", ESPN 3 México (720p)
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117726.m3u8
 #EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="sv", ESPN 3 Centro (720p)
 http://201.216.147.90:8729/play/a0p2
-#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="mx", ESPN 3 Centro Full HD
+#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="sv", ESPN 3 Centro Full HD
 http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211129170304&path-prefix=es" tvg-country="sv", ESPN 4 Centro HD 
 http://201.216.147.90:8729/play/a0gb
-#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211129170304&path-prefix=es" tvg-country="mx", ESPN 4 Centro Full HD
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211129170304&path-prefix=es" tvg-country="sv", ESPN 4 Centro Full HD
 http://190.11.225.124:5000/live/espn_4_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957" tvg-country="mx", ESPN 5 Centro HD
+#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957" tvg-country="sv", ESPN 5 Centro HD
 http://201.216.147.90:8729/play/a0ox
 #EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957" tvg-country="sv", ESPN 5 Centro Full HD
 http://190.11.225.124:5000/live/espn_5_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/3840px-ESPN_Premium_logo.svg.png" tvg-country="co", ESPN Premium HD
-
+#EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/3840px-ESPN_Premium_logo.svg.png" tvg-country="pe", ESPN Premium HD
+http://200.59.191.177:8000/play/a0ko/index.m3u8
 #EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1g6sjzDO1MpLgsEslJI_vrg-_fVxYU0Ew" tvg-country="pe", ESPN Premium HD
 
-#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="pe", ESPN Sudámerica (480p)
-
-#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="co", ESPN HD Sudámerica
-
+#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="pe", ESPN HD Sudámerica
+http://45.173.74.2:2010/play/a08a/index.m3u8
 #EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="ar", ESPN HD Sudámerica
-
+http://200.59.191.177:8000/play/a0o2/index.m3u8
 #EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" tvg-country="pe", ESPN 2 Sudámerica (480p)
-
-#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" tvg-country="co", ESPN 2 HD Sudámerica
-
+http://45.173.74.2:2010/play/a091/index.m3u8
+#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" tvg-country="ar", ESPN 2 HD Sudámerica
+http://200.59.191.177:8000/play/a0o1/index.m3u8
+#EXTINF:0 type="stream" channelId="357" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" tvg-country="pe", ESPN 3 Sudámerica (480p)
+http://45.173.74.2:2010/play/a092/index.m3u8
 #EXTINF:0 type="stream" channelId="357" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" tvg-country="pe", ESPN 3 HD Sudámerica
-
+http://200.59.191.177:8000/play/a0oh/index.m3u8
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" tvg-country="ar", ESPN 4 Sudámerica (480p)
+http://45.173.74.2:2010/play/a093/index.m3u8
 #EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" tvg-country="ar", ESPN 4 HD Sudámerica
-
+http://200.59.191.177:8000/play/a0pz/index.m3u8
+#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/3840px-ESPN_5_logo.svg.png" tvg-country="pe", ESPN 5 Sudámerica (480p)
+http://45.173.74.2:2010/play/a094/index.m3u8
 #EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/3840px-ESPN_5_logo.svg.png" tvg-country="pe", ESPN 5 HD Sudámerica
-
+http://200.59.191.177:8000/play/a0p1/index.m3u8
+#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-country="ar", ESPN 6 Sudámerica (480p)
+http://45.173.74.2:2010/play/a095/index.m3u8
+#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-country="ar", ESPN 6 HD Sudámerica
+http://200.59.191.177:8000/play/a0oi/index.m3u8
 #EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-country="ar", ESPN 6 HD Sudámerica
 http://190.11.225.124:5000/live/espn_6_hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" tvg-country="ar", ESPN 7 Sudámerica (480p)
+http://45.173.74.2:2010/play/a096/index.m3u8
 #EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" tvg-country="ar", ESPN 7 HD Sudámerica
-
+http://200.59.191.177:8000/play/a0p2/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", DSports HD
 http://200.59.188.3:8000/play/a0xe
 #EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", DSports HD
