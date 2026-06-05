@@ -15,7 +15,7 @@ http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117625.m3u8
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:0 type="stream" channelId="3127" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1mOAI6epURcThDZsQTG3NNpHvfSSMGRPI" shift="-1" tvg-country="mx", Imagen TV -1 hora (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:0 type="stream" channelId="-1" group="TV USA" logo="https://img1.hulu.com/user/v3/artwork/aba4808a-9ccb-4472-8f9e-17d8bbe9881d?base_image_bucket_name=image_manager&base_image=8680f195-72b1-4667-a512-159818af39f4&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22webp%22%7D,%7B%22trim%22:true%7D%5D" tvg-country="us", Estrella TV Full HD
+#EXTINF:0 type="stream" channelId="-1" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1qfIqPGeVi2hXaYHR0ataUPm5gUSoxwAp" tvg-country="us", Estrella TV Full HD
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:0 type="stream" channelId="1967" group="TV USA" tvg-country="us", Telemundo USA Full HD
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
@@ -35,9 +35,7 @@ http://201.216.147.90:8729/play/a0pa
 
 #EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1U4jxfFR5i-xRt3BhaQkTGCNEsKdfJyCl" shift="-1", Unicable HD
 
-#EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest?cb=20210515040932&path-prefix=es" tvg-country="mx", Canal 5 HD
-http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117655.m3u8
-#EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest?cb=20210515040932&path-prefix=es" tvg-country="mx", Canal 5 (480p)
+#EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1Zys6Zi-NivYyluM82fmZRaK14fUHwCUL" tvg-country="mx", Canal 5 HD
 http://200.115.120.1:8000/play/ca0105/index.m3u8
 #EXTINF:0 type="stream" channelId="2659" group="TV MX" tvg-country="mx", Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -81,11 +79,11 @@ http://200.59.188.3:8000/play/a043
 http://190.109.31.53:9000/play/a05u/index.m3u8
 #EXTINF:0 type="stream" channelId="1191" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1lfInmcwezJM7CHbdBgLaXovfBrh925Ft" audio-track="spa" shift="1" tvg-country="mx", Comedy Central HD
 http://190.11.225.124:5000/live/comedycentral_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/12/logo-distrito-comedia.png" audio-track="spa" tvg-country="pe", Distrito Comedia Full HD
+#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1HYBRgVbl9Sfn9g2jX6uSABsOCQq4rjJx" audio-track="spa" tvg-country="pe", Distrito Comedia Full HD
 http://190.11.225.124:5000/live/distrito_comedia_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/12/logo-distrito-comedia.png" audio-track="spa" tvg-country="pe", Distrito Comedia Full HD
+#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1HYBRgVbl9Sfn9g2jX6uSABsOCQq4rjJx" audio-track="spa" tvg-country="pe", Distrito Comedia Full HD
 http://190.60.48.150:8000/play/distrito-comedia/index.m3u8
-#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/12/logo-distrito-comedia.png" audio-track="spa" tvg-country="pe", Distrito Comedia Full HD
+#EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1HYBRgVbl9Sfn9g2jX6uSABsOCQq4rjJx" audio-track="spa" tvg-country="pe", Distrito Comedia Full HD
 http://201.216.147.90:8729/play/a00q
 #EXTINF:0 type="stream" channelId="1970" group="TV USA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/1200px-Galavision_Logo_2024.svg.png" tvg-country="us", Galavisión HD
 
@@ -97,6 +95,8 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 #EXTINF:0 type="stream" channelId="1972" group="Noticias" audio-track="spa" aspect-ratio="16:9" tvg-country="mx", CNN en Español (480p)
 http://201.216.147.90:8729/play/a0br
+#EXTINF:0 type="stream" channelId="1972" group="Noticias" audio-track="spa" aspect-ratio="16:9" tvg-country="mx", CNN en Español HD
+http://181.78.21.46:8009/play/a00q
 #EXTINF:0 type="stream" channelId="2689" name="ADN 40.mx" group="Noticias" tvg-country="mx" shift="-1", ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1uP9uWgHCCbZu8v2-GwuSukOa6lWzfsVN" tvg-country="mx", N+ Media Full HD
@@ -169,12 +169,12 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3774" group="Religión" logo="https://cdn.bio.link/uploads/profile_pictures/2022-06-14/aQmg3W6UdOCipiyuDucQszmQjiRjH8Cw.png" tvg-country="gt", María Visión Capilla HD
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Privado2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4569" name="ENLACE.mx" group="Religión" shift="-1", Enlace TV
+#EXTINF:0 type="stream" channelId="4569" name="ENLACE.mx" group="Religión", Enlace TV
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Religión" logo="https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944.png" audio-track="spa" tvg-country="sv", Canal 27 HD
 http://200.115.120.1:8000/play/ca078/index.m3u8
-#EXTINF:0 type="stream" channelId="1491" group="Religión" audio-track="spa" tvg-country="sv" catchup="default", EWTN HD
-http://190.171.83.2:4000/play/a0o6/index.m3u8
+#EXTINF:0 type="stream" channelId="1491" group="Religión" logo"https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" tvg-country="co", EWTN (480p)
+http://181.78.21.46:8009/play/a01c
 #EXTINF:0 type="stream" channelId="4777" group="Religión" tvg-country="co", CristoVisión (720p)
 http://181.78.21.46:8009/play/a00s
 #EXTINF:0 type="stream" channelId="-1" group="Religión" logo="https://pbs.twimg.com/profile_images/1429155252/LVM___4_0000_400x400.png" tvg-country="do", La Voz de Maria HD
@@ -267,6 +267,8 @@ http://181.78.21.46:8009/play/a02z
 http://45.68.35.218:4001/play/a01g/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logos/images/c/cf/DreamWorks_Animation_2016_%28Moon_Boy%29_%28Print%29.png/revision/latest?cb=20221214051754&path-prefix=vi" audio-track="spa" aspect-ratio="16:9" tvg-country="mx", DreamWorks Channel (960p)
 http://200.115.120.1:8000/play/ca005/index.m3u8
+
+http://200.115.120.1:8000/play/ca005/index.m3u8
 #EXTINF:0 type="stream" channelId="ADULT SWIM.mx" name="ADULT SWIM.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa"  shift="-1", Adult Swim HD
 http://201.182.248.254:8888/play/a0br/index.m3u8
 #EXTINF:0 type="stream" channelId="ADULT SWIM.mx" name="ADULT SWIM.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/AS_white.svg/revision/latest?cb=20240405231525" audio-track="spa" tvg-country="co"  shift="-1", Adult Swim (720p)
@@ -283,13 +285,13 @@ http://201.182.248.254:8888/play/a09r/index.m3u8
 http://181.176.153.104:8090/play/a1c8/index.m3u8
 #EXTINF:11 type="stream" channelId="2639" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Tooncast_HD.png/revision/latest?cb=20241211214928&path-prefix=es" audio-track="spa" aspect-ratio="16:9" tvg-country="ar", Tooncast (480p)
 http://45.228.233.254:18000/play/a03e/index.m3u8
-#EXTINF:0 type="stream" channelId="2688" name="BITIME.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717" audio-track="spa" tvg-country="mx"  shift="-1", BitMe HD
+#EXTINF:0 type="stream" channelId="2688" name="BITIME.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717" audio-track="spa" tvg-country="mx", BitMe HD
 http://200.115.120.1:8000/play/ca012/index.m3u8
-#EXTINF:0 type="stream" channelId="2688" name="BITIME.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717" audio-track="spa" tvg-country="mx"  shift="-1", BitMe HD
+#EXTINF:0 type="stream" channelId="2688" name="BITIME.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717" audio-track="spa" tvg-country="mx", BitMe HD
 http://181.78.21.46:8009/play/a006
-#EXTINF:0 type="stream" channelId="2688" name="BITIME.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717" audio-track="spa" tvg-country="mx"  shift="-1", BitMe HD
+#EXTINF:0 type="stream" channelId="2688" name="BITIME.mx" group="Toons & Anime" logo="https://static.wikia.nocookie.net/logopedia/images/5/54/BitMe_2025.svg/revision/latest?cb=20250307002717" audio-track="spa" tvg-country="mx", BitMe HD
 http://190.60.48.150:8000/play/bitme/index.m3u8
-#EXTINF:0 type="stream" channelId="3317" group="Series" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" audio-track="spa" tvg-country="pe", Universal TV HD
+#EXTINF:0 type="stream" channelId="3317" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1VkJiBhvP0lMr2LJm5cayDInWDhDegBwp" audio-track="spa" tvg-country="pe", Universal TV HD
 http://201.216.147.90:8729/play/a0om
 #EXTINF:0 type="stream" channelId="UNIVERSAL PREMIERE.mx" name="UNIVERSAL PREMIERE.mx" group="Series" logo="https://universalplus.com/files/channels/398064723.png" audio-track="spa" tvg-country="mx"  shift="-1", Universal Premiere HD
 http://201.216.147.90:8729/play/a0cp
@@ -307,11 +309,11 @@ http://201.216.147.90:8729/play/a01b
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/29138.m3u8
 #EXTINF:11 type="stream" channelId="935" group="Películas" logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO_2.png" audio-track="spa" tvg-country="ar", HBO 2 HD
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/29142.m3u8
-#EXTINF:46 type="stream" channelId="2585" group="Películas" logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO_PLUS.png" audio-track="spa" tvg-country="ar", HBO+ HD
+#EXTINF:46 type="stream" channelId="2585" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1s-ZVs1iGjmVQjgVKMQFz_q0RPSvxTS3d" audio-track="spa" tvg-country="ar", HBO+ HD
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/29150.m3u8
-#EXTINF:46 type="stream" channelId="2585" group="Películas" logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO_PLUS.png" audio-track="spa" tvg-country="ar", HBO+ HD
+#EXTINF:46 type="stream" channelId="2585" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1s-ZVs1iGjmVQjgVKMQFz_q0RPSvxTS3d" audio-track="spa" tvg-country="ar", HBO+ HD
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2587" group="Películas" audio-track="spa" tvg-country="pe", HBO Xtreme HD
+#EXTINF:0 type="stream" channelId="2587" group="Películas" audio-track="spa" tvg-country="ar", HBO Xtreme HD
 
 #EXTINF:0 type="stream" channelId="361" group="Películas" shift="-2" tvg-country="ar", HBO Pop HD
 
@@ -321,7 +323,7 @@ http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2725" group="Series" audio-track="spa" tvg-country="ar", HBO Mundi (720p)
 
-#EXTINF:47 type="stream" channelId="2896" group="Películas" audio-track="spa" tvg-country="mx", Space Full HD (México)
+#EXTINF:47 type="stream" channelId="2896" group="Películas" logo"https://www.tvchannellists.com/wiki/images/8/88/Space_Latin_America.svg" audio-track="spa" tvg-country="mx", Space Full HD (México)
 http://190.11.225.124:5000/live/space_hd/playlist.m3u8
 #EXTINF:46 type="stream" channelId="188" group="Películas" logo="https://static.wikia.nocookie.net/tvcable/images/3/31/SonyChannel2023LA.png/revision/latest?cb=20231115232012&path-prefix=es" tvg-country="mx", Sony Channel (720p) México
 http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
@@ -343,8 +345,10 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 http://skynetdigital.us:80/live/FISHFUNES/FUNES/124514.m3u8
 #EXTINF:0 type="stream" channelId="177" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1DgYeEVAMx2WUvkkzQnUmaIJ_Bn8N5Pdw" audio-track="spa" shift="-3" tvg-country="ar", Star Channel HD
 http://201.216.147.90:8729/play/a0e5
-#EXTINF:11 type="stream" channelId="2503" group="Películas" logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8b/A%26E_%282013-.n.v.%29.png/revision/latest?cb=20200730200106" audio-track="spa" tvg-country="co", A&E HD
+#EXTINF:11 type="stream" channelId="2503" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1H40If5_3G1f9HCgblrMuVxDI080A4IHx" audio-track="spa" tvg-country="pe", A&E HD
 http://201.216.147.90:8729/play/a0c5
+#EXTINF:11 type="stream" channelId="2503" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1H40If5_3G1f9HCgblrMuVxDI080A4IHx" audio-track="spa" tvg-country="pe", A&E HD
+http://181.78.21.46:8009/play/a03cf
 #EXTINF:0 type="stream" channelId="1303" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FX_Asia.svg/revision/latest?cb=20230319173416&path-prefix=es" tvg-country="pe", FX (480p)
 http://201.216.147.90:8729/play/a0m0
 #EXTINF:0 type="stream" channelId="1304" group="Películas" logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/5e/FX_%282023-.n.v.%29.png/revision/latest?cb=20240413052058" audio-track="spa" tvg-country="pe", FX HD
@@ -355,22 +359,26 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 http://201.216.147.90:8729/play/a0bq
 #EXTINF:0 type="stream" channelId="2501" group="Películas" audio-track="spa" tvg-country="pe", AMC HD (Perú)
 http://201.216.147.90:8729/play/a0c6
-#EXTINF:0 type="stream" channelId="3775" group="Series" logo"https://static.wikia.nocookie.net/logopedia/images/2/2f/AMCSeries.svg/revision/latest?cb=20251101164605&path-prefix=es" audio-track="spa" tvg-country="pe", AMC Series (480p)
+#EXTINF:0 type="stream" channelId="3775" group="Series" logo"" audio-track="spa" tvg-country="pe", AMC Series (480p)
 http://201.216.147.90:8729/play/a0h4
-#EXTINF:0 type="stream" channelId="3775" group="Series" logo"https://static.wikia.nocookie.net/logopedia/images/2/2f/AMCSeries.svg/revision/latest?cb=20251101164605&path-prefix=es" audio-track="spa" tvg-country="pe", AMC Series HD
+#EXTINF:0 type="stream" channelId="3775" group="Series" logo"" audio-track="spa" tvg-country="pe", AMC Series HD
 http://201.216.147.90:8729/play/a021
 #EXTINF:0 type="stream" channelId="2900" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1b3LP6DPS_oLTXjNelrqoIJHFds_I-Gxk" audio-track="spa" tvg-country="mx", TNT HD México
 http://skynetdigital.us:80/live/FISHFUNES/FUNES/164030.m3u8
 #EXTINF:0 type="stream" channelId="2900" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1b3LP6DPS_oLTXjNelrqoIJHFds_I-Gxk" audio-track="spa" tvg-country="pe", TNT HD 
 http://201.216.147.90:8729/play/a0ci
-#EXTINF:0 type="stream" channelId="2900" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1b3LP6DPS_oLTXjNelrqoIJHFds_I-Gxk" audio-track="spa" tvg-country="pe", TNT HD Colombia
+#EXTINF:0 type="stream" channelId="2900" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1b3LP6DPS_oLTXjNelrqoIJHFds_I-Gxk" audio-track="spa" tvg-country="pe", TNT HD
 http://190.60.48.150:8000/play/TNT/index.m3u8
 #EXTINF:0 type="stream" channelId="2686" group="Series" logo="https://static.wikia.nocookie.net/wiki-de-rick-morty/images/8/86/TNT_Series.png/revision/latest?cb=20210422033049&path-prefix=es" audio-track="spa" tvg-country="pe", TNT Series HD
 http://201.216.147.90:8729/play/a0p6
 #EXTINF:0 type="stream" channelId="3228" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1GKCCUr4YluN6Hf-Drz9zFWfGTiw45SzC" audio-track="spa" tvg-country="pe", TNT Novelas HD
 http://201.216.147.90:8729/play/a0bi
-#EXTINF:0 type="stream" channelId="73" group="Series" logo="https://static.wikia.nocookie.net/logopedia/images/0/00/USANetworkonscreenbug.png/revision/latest?cb=20260311002249" audio-track="spa" tvg-country="pe", USA HD
+#EXTINF:0 type="stream" channelId="73" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1UEc9prZLtCLjsJ-ujHdhwdFHDkicEgsH" audio-track="spa" tvg-country="pe", USA HD
+http://181.78.21.46:8009/play/a03i
+#EXTINF:0 type="stream" channelId="73" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1UEc9prZLtCLjsJ-ujHdhwdFHDkicEgsH" audio-track="spa" tvg-country="pe", USA HD
 http://201.216.147.90:8729/play/a013
+#EXTINF:0 type="stream" channelId="73" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1UEc9prZLtCLjsJ-ujHdhwdFHDkicEgsH" audio-track="spa" tvg-country="pe", USA HD
+http://200.59.188.3:8000/play/a18o
 #EXTINF:48 type="stream" channelId="1573" group="Series" tvg-country="mx", AXN (720p) México
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2246" group="Series" logo="https://lh3.googleusercontent.com/u/0/d/1VzHnkw0IiJPCDDzOTX_wvek0b6ecgCw2" tvg-country="pe", AXN HD
@@ -395,15 +403,21 @@ http://201.216.147.90:8729/play/a0ha
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/29130.m3u8
 #EXTINF:0 type="stream" channelId="3766" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" audio-track="spa" tvg-country="ar", Golden Premiere 2 HD
 http://201.216.147.90:8729/play/a0hb
-#EXTINF:0 type="stream" channelId="3743" group="Películas" audio-track="spa" tvg-country="ar", DHE Full HD
+#EXTINF:0 type="stream" channelId="3743" group="Películas" logo"https://www.tvchannellists.com/wiki/images/3/3d/DHE.svg" audio-track="spa" tvg-country="ar", DHE HD
+http://181.78.21.46:8009/play/a00u
+#EXTINF:0 type="stream" channelId="3743" group="Películas" logo"https://www.tvchannellists.com/wiki/images/3/3d/DHE.svg" audio-track="spa" tvg-country="ar", DHE Full HD
 http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="291" group="Películas" logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" audio-track="spa" tvg-country="pe", MultiCinema (480p)
+#EXTINF:0 type="stream" channelId="291" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1eLL7JauZT1HmUDYrRdTLaMBG1CpUdfx8" audio-track="spa" tvg-country="pe", MultiCinema (480p)
+http://200.115.120.1:8000/play/ca140/index.m3u8
+#EXTINF:0 type="stream" channelId="291" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1eLL7JauZT1HmUDYrRdTLaMBG1CpUdfx8" audio-track="spa" tvg-country="pe", MultiCinema (480p)
 http://200.115.96.61:9090/play/a0i0/index.m3u8
-#EXTINF:0 type="stream" channelId="291" group="Películas" logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" audio-track="spa" tvg-country="ar", Multicinema (480p)
+#EXTINF:0 type="stream" channelId="291" group="Películas" logo="https://lh3.googleusercontent.com/u/0/d/1eLL7JauZT1HmUDYrRdTLaMBG1CpUdfx8" audio-track="spa" tvg-country="ar", MultiCinema (480p)
 http://201.216.147.90:8729/play/a0dh
-#EXTINF:11 type="stream" channelId="292" group="Películas" audio-track="spa" tvg-country="ar", MultiPremier (480p)
+#EXTINF:11 type="stream" channelId="292" group="Películas" logo="https://www.tvporinternet2.com/imge/multipremier.webp" audio-track="spa" tvg-country="ar", MultiPremier (480p)
+http://200.115.120.1:8000/play/ca026/index.m3u8
+#EXTINF:11 type="stream" channelId="292" group="Películas" logo="https://www.tvporinternet2.com/imge/multipremier.webp" audio-track="spa" tvg-country="ar", MultiPremier (480p)
 http://201.216.147.90:8729/play/a0on
-#EXTINF:0 type="stream" channelId="895" group="Películas" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" audio-track="spa" shift="-1" tvg-country="ar", Turner Classic Movies (480p)
+#EXTINF:0 type="stream" channelId="895" group="Películas" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TCM_Latam_logo.png/960px-TCM_Latam_logo.png" audio-track="spa" shift="-1" tvg-country="ar", Turner Classic Movies (480p)
 http://201.216.147.90:8729/play/a0dg
 #EXTINF:11 type="stream" channelId="2632" group="Películas" audio-track="spa" tvg-country="pe", Film&Arts HD
 http://201.216.147.90:8729/play/a0c4
@@ -412,15 +426,15 @@ http://201.216.147.90:8729/play/a0c9
 #EXTINF:0 type="stream" channelId="3813" group="Películas" audio-track="spa" tvg-country="us", Ultra Familia HD
 
 #EXTINF:0 type="stream" channelId="3809" group="Películas" audio-track="spa" tvg-country="us", Ultra Kidz HD
-
+http://200.59.188.3:8000/play/a164
 #EXTINF:0 type="stream" channelId="3814" group="Películas" audio-track="spa" tvg-country="us", Ultra Luna HD
 
 #EXTINF:0 type="stream" channelId="3810" group="Películas" audio-track="spa" tvg-country="us", Ultra Tainment HD
-
+http://200.59.188.3:8000/play/a16p
 #EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" audio-track="spa" tvg-country="pe", Pánico (720p)
 
 #EXTINF:0 type="stream" channelId="3626" group="Películas" logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest?cb=20161218051240" audio-track="spa" tvg-country="us", Pánico HD
-
+http://200.115.120.1:8000/play/ca120/index.m3u8
 #EXTINF:0 type="stream" channelId="3741" group="Películas" audio-track="spa" tvg-country="sv", Cinema Platino HD
 
 #EXTINF:11 type="stream" channelId="4774" group="Películas" logo=""audio-track="spa" tvg-country="sv", Canal Claro HD
@@ -557,14 +571,18 @@ http://186.96.2.201:8000/play/a005
 http://201.216.147.90:8729/play/a00z
 #EXTINF:0 type="stream" channelId="1964" group="Música" logo="https://lh3.googleusercontent.com/rT3ex-yMPbF1UqursVT4mQn6dvxJOSbde2OnR4XheQPqtRRDumXoOzvU9rktzKp3hoF3S8VkRRM8" tvg-country="pe", TeleHit Música HD
 http://190.60.48.150:8000/play/telehit/index.m3u8
-#EXTINF:0 type="stream" channelId="339" group="Música" logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Telehit_M%C3%BAsica_Plus_logo.png" audio-track="spa" tvg-country="sv", TeleHit Música Plus (720p)
-
-#EXTINF:0 type="stream" channelId="1966" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1d0ry-nb1uWapVPzmcMiAPyLjKMZQdntW" tvg-country="pe", TeleHit Full HD
-http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1966" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/14qwW-hjojInSxhjKpfS6swHHc3JwSRGM" tvg-country="pe", TeleHit HD
-http://201.216.147.90:8729/play/a020
+#EXTINF:0 type="stream" channelId="1964" group="Música" logo="https://lh3.googleusercontent.com/rT3ex-yMPbF1UqursVT4mQn6dvxJOSbde2OnR4XheQPqtRRDumXoOzvU9rktzKp3hoF3S8VkRRM8" tvg-country="pe", TeleHit Música HD
+http://200.59.188.3:8000/play/a16e
+#EXTINF:0 type="stream" channelId="339" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1xWN6XQlRUSjuzo5vlxFTtkyR3IDqdwrs" audio-track="spa" tvg-country="sv", TeleHit Música Plus
+http://200.59.188.3:8000/play/a16k
 #EXTINF:0 type="stream" channelId="1966" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/14qwW-hjojInSxhjKpfS6swHHc3JwSRGM" tvg-country="pe", TeleHit (720p)
 http://190.60.48.150:8000/play/telehit-latino/index.m3u8
+#EXTINF:0 type="stream" channelId="1966" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1d0ry-nb1uWapVPzmcMiAPyLjKMZQdntW" tvg-country="pe", TeleHit Full HD
+http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1966" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1d0ry-nb1uWapVPzmcMiAPyLjKMZQdntW" tvg-country="pe", TeleHit HD
+http://201.216.147.90:8729/play/a020
+#EXTINF:0 type="stream" channelId="1966" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1d0ry-nb1uWapVPzmcMiAPyLjKMZQdntW" tvg-country="pe", TeleHit HD
+http://200.59.188.3:8000/play/a16d
 #EXTINF:0 type="stream" channelId="1959" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1yg1j-kRqV-bXQW0wzKpfn0wCNURktlqj" tvg-country="sv", Bandamax HD
 http://190.60.48.150:8000/play/bandamax/index.m3u8
 #EXTINF:0 type="stream" channelId="1959" group="Música" logo="https://lh3.googleusercontent.com/u/0/d/1yg1j-kRqV-bXQW0wzKpfn0wCNURktlqj" tvg-country="sv", Bandamax HD
@@ -645,8 +663,10 @@ http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117739.m3u8
 
 #EXTINF:0 type="stream" channelId="" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1L6EPY148EXliHMHWKC5AP1gEmwTZqErs" tvg-country="mx", Sky Sports BUNDESLIGA HD
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:0 type="stream" channelId="3751" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1HyTUsVRMPJYND5rzt0s-fAEdKot52elr" tvg-country="mx", FOX Deportes Tubi
+#EXTINF:0 type="stream" channelId="3751" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1HyTUsVRMPJYND5rzt0s-fAEdKot52elr" tvg-country="mx", FOX Deportes en Tubi
 
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://foxone.asset.viewlift.com/images/2025/12/01/fox-logo-1764604619303.png" tvg-country="mx", FOX One México HD
+http://200.115.120.1:8000/play/a017/index.m3u8
 #EXTINF:0 type="stream" channelId="2891" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Fox_Sports_MX.svg" tvg-country="sv", FOX Sports México HD
 http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:0 type="stream" channelId="2891" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Fox_Sports_MX.svg" tvg-country="sv", FOX Sports México HD
@@ -656,99 +676,118 @@ http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117736.m3u8
 #EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Fox_Sports_2_MX.svg" tvg-country="sv", FOX Sports 2 México HD
 http://200.115.120.1:8000/play/ca126/index.m3u8
 #EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Fox_Sports_2_MX.svg" tvg-country="sv", FOX Sports 2 México HD
+http://200.115.120.1:8000/play/ca126/index.m3u8
+#EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Fox_Sports_2_MX.svg" tvg-country="sv", FOX Sports 2 México HD
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/28416.m3u8
 #EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fox_Sports_3_MX.svg" tvg-country="sv", FOX Sports 3 México HD
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117738.m3u8
+#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Fox_Sports_3_MX.svg" tvg-country="sv", FOX Sports 3 México HD
+http://200.115.120.1:8000/play/ca150/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-name="FOX SPORTS PREMIUM.mx" logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Fox_Sports_Premium_MX_II.svg" group="Deportes" tvg-country="mx", FOX Deportes PREMIUM (720p)
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/154295.m3u8
-#EXTINF:0 type="stream" channelId="3748" group="Deportes" logo="https://static.wikia.nocookie.net/disney/images/3/3a/2000px-ESPN_Deportes_logo.png" tvg-country="sv", ESPN Deportes HD
+#EXTINF:0 type="stream" channelId="3748" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1MyXjqJUGxrcQGUlxmN9Y1ojM9HqMhIt-" tvg-country="us", ESPN Deportes HD
 http://totalplay.site:80/HoracioLopez/KhS3W7Te25/591971.m3u8
-#EXTINF:11 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="sv", ESPN México HD
+#EXTINF:11 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="mx", ESPN México HD
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/28422.m3u8
-#EXTINF:11 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="sv", ESPN Centro (720p)
+#EXTINF:11 type="stream" channelId="344" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927" tvg-country="sv", ESPN Centroamérica (720p)
 http://201.216.147.90:8729/play/a0p0
 #EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 México (720p)
 http://by.questreams.com:83/live/Verria/0695348721/775800.ts
 #EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 México (720p)
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117725.m3u8
-#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 Centro (720p)
+#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 Centroamérica (720p)
 http://201.216.147.90:8729/play/a0p1
-#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 Centro Full HD
+#EXTINF:0 type="stream" channelId="2540" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" tvg-country="sv", ESPN 2 Centroamérica HD
 http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="sv", ESPN 3 México (720p)
 http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/117726.m3u8
-#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="sv", ESPN 3 Centro (720p)
+#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="sv", ESPN 3 Centroamérica (720p)
 http://201.216.147.90:8729/play/a0p2
-#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="sv", ESPN 3 Centro Full HD
+#EXTINF:0 type="stream" channelId="355" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg/revision/latest?cb=20231118035609" tvg-country="sv", ESPN 3 Centroamérica HD
 http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211129170304&path-prefix=es" tvg-country="sv", ESPN 4 Centro HD 
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/17-kuq0v-366t6Maf840ujQkjjhdAramT" tvg-country="sv", ESPN 4 Centroamérica HD 
 http://201.216.147.90:8729/play/a0gb
-#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg/revision/latest?cb=20211129170304&path-prefix=es" tvg-country="sv", ESPN 4 Centro Full HD
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/17-kuq0v-366t6Maf840ujQkjjhdAramT" tvg-country="gt", ESPN 4 Centroamérica HD
 http://190.11.225.124:5000/live/espn_4_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957" tvg-country="sv", ESPN 5 Centro HD
+#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1BUq3t2gq4-Tu6CnWE4UmkfvM-Yg57GNu" tvg-country="sv", ESPN 5 Centroamérica HD
 http://201.216.147.90:8729/play/a0ox
-#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg/revision/latest?cb=20211120193957" tvg-country="sv", ESPN 5 Centro Full HD
+#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1BUq3t2gq4-Tu6CnWE4UmkfvM-Yg57GNu" tvg-country="sv", ESPN 5 Centroamérica HD
 http://190.11.225.124:5000/live/espn_5_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/3840px-ESPN_Premium_logo.svg.png" tvg-country="pe", ESPN Premium HD
+#EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/3840px-ESPN_Premium_logo.svg.png" tvg-country="pe", ESPN Premium Sudamérica HD
 http://200.59.191.177:8000/play/a0ko/index.m3u8
-#EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1g6sjzDO1MpLgsEslJI_vrg-_fVxYU0Ew" tvg-country="pe", ESPN Premium HD
+#EXTINF:0 type="stream" channelId="4669" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1g6sjzDO1MpLgsEslJI_vrg-_fVxYU0Ew" tvg-country="pe", ESPN Premium Sudamérica HD
 
-#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="pe", ESPN HD Sudámerica
+#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://www.tvchannellists.com/wiki/images/3/34/ESPN.svg" tvg-country="pe", ESPN Sudamérica HD
 http://45.173.74.2:2010/play/a08a/index.m3u8
-#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN_HD.svg/revision/latest?cb=20160309013419" tvg-country="ar", ESPN HD Sudámerica
+#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://www.tvchannellists.com/wiki/images/3/34/ESPN.svg" tvg-country="ar", ESPN Sudamérica HD
 http://200.59.191.177:8000/play/a0o2/index.m3u8
-#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" tvg-country="pe", ESPN 2 Sudámerica (480p)
+#EXTINF:0 type="stream" channelId="3746" group="Deportes" logo="https://www.tvchannellists.com/wiki/images/3/34/ESPN.svg" tvg-country="ar", ESPN Sudamérica Full HD
+http://181.78.21.46:8009/play/a015
+#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://www.tvchannellists.com/wiki/images/a/a2/ESPN_2.svg" tvg-country="pe", ESPN 2 Sudamérica (480p)
 http://45.173.74.2:2010/play/a091/index.m3u8
-#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ESPN2_HD_logo.svg/revision/latest?cb=20221203184319" tvg-country="ar", ESPN 2 HD Sudámerica
+#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://www.tvchannellists.com/wiki/images/a/a2/ESPN_2.svg" tvg-country="ar", ESPN 2 Sudamérica HD
 http://200.59.191.177:8000/play/a0o1/index.m3u8
-#EXTINF:0 type="stream" channelId="357" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" tvg-country="pe", ESPN 3 Sudámerica (480p)
+#EXTINF:0 type="stream" channelId="1263" group="Deportes" logo="https://www.tvchannellists.com/wiki/images/a/a2/ESPN_2.svg" tvg-country="ar", ESPN 2 Sudamérica Full HD
+http://181.78.21.46:8009/play/a016
+#EXTINF:0 type="stream" channelId="357" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" tvg-country="pe", ESPN 3 Sudamérica (480p)
 http://45.173.74.2:2010/play/a092/index.m3u8
-#EXTINF:0 type="stream" channelId="357" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" tvg-country="pe", ESPN 3 HD Sudámerica
+#EXTINF:0 type="stream" channelId="357" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" tvg-country="pe", ESPN 3 Sudamérica HD
 http://200.59.191.177:8000/play/a0oh/index.m3u8
-#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" tvg-country="ar", ESPN 4 Sudámerica (480p)
+#EXTINF:0 type="stream" channelId="357" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" tvg-country="pe", ESPN 3 Sudamérica Full HD
+http://181.78.21.46:8009/play/a017
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" tvg-country="ar", ESPN 4 Sudamérica (480p)
 http://45.173.74.2:2010/play/a093/index.m3u8
-#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" tvg-country="ar", ESPN 4 HD Sudámerica
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" tvg-country="ar", ESPN 4 Sudamérica HD 
 http://200.59.191.177:8000/play/a0pz/index.m3u8
-#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/3840px-ESPN_5_logo.svg.png" tvg-country="pe", ESPN 5 Sudámerica (480p)
+#EXTINF:0 type="stream" channelId="4657" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" tvg-country="ar", ESPN 4 Sudamérica Full HD 
+http://181.78.21.46:8009/play/a03m
+EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/3840px-ESPN_5_logo.svg.png" tvg-country="pe", ESPN 5 Sudamérica (480p)
 http://45.173.74.2:2010/play/a094/index.m3u8
-#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/3840px-ESPN_5_logo.svg.png" tvg-country="pe", ESPN 5 HD Sudámerica
+#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/3840px-ESPN_5_logo.svg.png" tvg-country="pe", ESPN 5 Sudamérica HD
 http://200.59.191.177:8000/play/a0p1/index.m3u8
-#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-country="ar", ESPN 6 Sudámerica (480p)
+#EXTINF:0 type="stream" channelId="1328" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/3840px-ESPN_5_logo.svg.png" tvg-country="pe", ESPN 5 Sudamérica Full HD
+http://181.78.21.46:8009/play/a018
+#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-country="ar", ESPN 6 Sudamérica (480p)
 http://45.173.74.2:2010/play/a095/index.m3u8
-#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-country="ar", ESPN 6 HD Sudámerica
+#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-country="ar", ESPN 6 Sudamérica HD
 http://200.59.191.177:8000/play/a0oi/index.m3u8
-#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-country="ar", ESPN 6 HD Sudámerica
-http://190.11.225.124:5000/live/espn_6_hd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" tvg-country="ar", ESPN 7 Sudámerica (480p)
+#EXTINF:0 type="stream" channelId="213" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" tvg-country="ar", ESPN 6 Sudamérica Full HD
+http://181.78.21.46:8009/play/a019
+#EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" tvg-country="ar", ESPN 7 Sudamérica (480p)
 http://45.173.74.2:2010/play/a096/index.m3u8
-#EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" tvg-country="ar", ESPN 7 HD Sudámerica
+#EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" tvg-country="ar", ESPN 7 Sudamérica HD
 http://200.59.191.177:8000/play/a0p2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", DSports HD
-http://200.59.188.3:8000/play/a0xe
-#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", DSports HD
+#EXTINF:0 type="stream" channelId="170" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" tvg-country="ar", ESPN 7 Sudamérica HD
+http://181.78.21.46:8009/play/a01a
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1sVNpmsXwLVB5U1uaErizVOeFmeZ2NL_9" tvg-country="ar", DSports HD
 http://38.199.4.105:9999/play/1119/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", DSports+ HD
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1sVNpmsXwLVB5U1uaErizVOeFmeZ2NL_9" tvg-country="ar", DSports HD
+http://200.59.188.3:8000/play/a0xe
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/12N2qVW-T4Dm9eA-20sRbWcGoHi0GloHt" tvg-country="ar", DSports 2 HD
 http://200.59.188.3:8000/play/a0xf
-#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/t/dtv_sports_blanco_1.png" tvg-country="ar", DSports+ (720p)
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1Fg1EpIKlxcCWZPIfhOR6JeCZBjJWirpf" tvg-country="ar", DSports+ HD
 
-#EXTINF:0 type="stream" channelId="3802" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/3840px-TyC_Sports_logo.svg.png" tvg-country="ar", TyC Sports (720p)
-http://xpaneltv.com:8080/Alirf/78587421/52157
-#EXTINF:0 type="stream" channelId="3802" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/3840px-TyC_Sports_logo.svg.png" tvg-country="ar", TyC Sports (720p)
+#EXTINF:0 type="stream" channelId="3802" group="Deportes" logo"https://lh3.googleusercontent.com/u/0/d/1oPrlUm6SzADl2XgGI2PMcLX97MD3X7Li" tvg-country="ve", TyC Sports HD
+http://200.59.188.3:8000/play/a0th
+#EXTINF:0 type="stream" channelId="3802" group="Deportes" logo"https://lh3.googleusercontent.com/u/0/d/1oPrlUm6SzADl2XgGI2PMcLX97MD3X7Li" tvg-country="ve", TyC Sports HD
+http://200.59.188.3:8000/play/a18q
+#EXTINF:0 type="stream" channelId="3802" group="Deportes" logo"https://lh3.googleusercontent.com/u/0/d/1oPrlUm6SzADl2XgGI2PMcLX97MD3X7Li" tvg-country="ar", TyC Sports (720p)
 http://200.115.120.1:8000/play/ca043/index.m3u8
 #EXTINF:0 type="stream" channelId="4652" group="Deportes" logo="https://statics-files.tycsports.com/frontend/tycsportsplay/img/tycsportsplay.svg" tvg-country="ar", TyC Sports Play
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Deportes" logo"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/1920px-BeIN_Sports_En_Espa%C3%B1ol.png" tvg-country="us", beIN Sports Xtra Ñ
+http://200.59.188.3:8000/play/a0cm
 #EXTINF:0 type="stream" channelId="4699" group="Deportes" logo="https://cdn.prod.website-files.com/60467fdad665324c974b586c/66fc428ebc5bca1ed5c1def9_tntsports-premium-whitetext.png" audio-track="spa" tvg-country="cl", TNT Sports Premium HD
-http://xpaneltv.com:8080/Alirf/78587421/52156
-#EXTINF:0 type="stream" channelId="225" group="Deportes" tvg-country="mx", EuroSport 1
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:0 type="stream" channelId="933" group="Deportes" tvg-country="mx", EuroSport 2
-http://185.189.225.157/EuroSport2/index.m3u8
+
 #EXTINF:0 type="stream" channelId="227" group="Deportes" logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" tvg-country="sv", AYM Sports HD
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="INTERNETTV DEPORTES.mx" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/1iScMArJSjiyZVd3d_EEgQOOe8UoRb9Nq" tvg-country="mx", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:0 type="stream" channelId="3628" group="Deportes" tvg-country="mx", TVC Deportes (360p)
-http://live.detodotvplay.com:8080/Risario8/Pineda13/2188
+#EXTINF:0 type="stream" channelId="3628" group="Deportes" tvg-country="mx", TVC Deportes
+
+#EXTINF:0 type="stream" channelId="225" group="Deportes" tvg-country="mx", EuroSport 1
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:0 type="stream" channelId="933" group="Deportes" tvg-country="mx", EuroSport 2
+http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Lucha_Libre_AAA_Worldwide_logo.png" tvg-country="mx", AAA Worldwide
 https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0 type="stream" channelId="2065" group="Deportes" logo="https://blog.logomyway.com/wp-content/uploads/2021/03/wwe-logo-png.png" audio-track="spa" tvg-country="sv", WWE Network (720p)
@@ -759,6 +798,8 @@ http://fl2.moveonjoy.com/WWE/index.m3u8
 http://fl1.moveonjoy.com/UFC/index.m3u8
 #EXTINF:0 type="stream" channelId="2595" group="Deportes" logo="https://watch.dazn.com/default-assets/partnership-default.png" audio-track="spa" tvg-country="mx", DAZN Combat HD
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:0 type="stream" channelId="4642" group="Deportes" logo"https://lh3.googleusercontent.com/u/0/d/1HsfMVqx2rlxq7OHwWywGz1XTdrVJwYjv" tvg-country="mx", Adrenalina Sports Network HD
+http://200.59.188.3:8000/play/a162
 #EXTINF:0 type="stream" channelId="1177" group="Deportes" logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" audio-track="spa" tvg-country="ar", F1 TV
 https://is.gd/rVSZEu?US600011Q2.m3u8
 #EXTINF:0 type="stream" channelId="1333" group="Deportes" audio-track="spa" tvg-country="ar", Red Bull TV
