@@ -51,6 +51,8 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1TlUJlksIyfOMb730h_mrZmi3i_QlVWEI" tvg-country="mx", Azteca 7 (480p)
 http://201.77.60.62:8002/play/a0fm/index.m3u8
+#EXTINF:0 type="stream" channelId="255" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1TlUJlksIyfOMb730h_mrZmi3i_QlVWEI" tvg-country="mx", Azteca 7 (720p)
+https://mdstrm.com/live-stream-playlist/67da2962c4eed1a805b30e61.m3u8
 #EXTINF:0 type="stream" channelId="255" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/12rEdRMCO_hkGTGX0-o9OUqbuPREosBK9" tvg-country="mx", Azteca 7 Full HD
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="228" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Azteca_Internacional_Logo_Official_2023-present.svg" tvg-country="pe", Azteca Internacional Full HD
@@ -109,14 +111,16 @@ http://201.216.147.90:8729/play/a0br
 http://181.78.21.46:8009/play/a00q
 #EXTINF:0 type="stream" channelId="2689" name="ADN 40.mx" group="Noticias" tvg-country="mx" shift="-1", ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1uP9uWgHCCbZu8v2-GwuSukOa6lWzfsVN" tvg-country="mx", N+ Media Full HD
-
 #EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1uP9uWgHCCbZu8v2-GwuSukOa6lWzfsVN" tvg-country="mx", N+ Focus HD
-
+https://nomvauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure.akamaized.net/hls/live/2036971-b/event01/index.m3u8&redirect=true
+#EXTINF:0 type="stream" channelId="332" name="FORO TV.mx" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1P3yzv3I7OTc5HqEBrQoH8y_vZOQZFBpS" tvg-country="mx" shift="-1", N+ Foro HD
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8&redirect=true
 #EXTINF:0 type="stream" channelId="332" name="FORO TV.mx" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1P3yzv3I7OTc5HqEBrQoH8y_vZOQZFBpS" tvg-country="mx" shift="-1", N+ Foro Full HD
 http://201.77.60.62:8002/play/a0o3/index.m3u8
 #EXTINF:0 type="stream" channelId="332" name="FORO TV.mx" group="Noticias" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/N%2B_Foro_2024.svg/1280px-N%2B_Foro_2024.svg.png" tvg-country="mx" shift="-1", N+ Foro (576p)
 http://201.77.60.62:8002/play/a0nv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1uP9uWgHCCbZu8v2-GwuSukOa6lWzfsVN" tvg-country="mx", N+ Media Full HD
+
 #EXTINF:0 type="stream" channelId="3790" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1aznWcQE3tV20r03z421Vqhfh3gcuTa8v" tvg-country="mx", TeleFórmula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 type="stream" channelId="3790" group="Noticias" logo="https://lh3.googleusercontent.com/u/0/d/1aznWcQE3tV20r03z421Vqhfh3gcuTa8v" tvg-country="mx", TeleFórmula (480p)
