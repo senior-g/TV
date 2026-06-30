@@ -38,7 +38,12 @@ https://peaky.techcoder40.workers.dev/5932.m3u8
 EXTINF:0 type="stream" channelId="-1" group="TV USA" logo="https://static.wikia.nocookie.net/iepfanon/images/7/77/Logo_UniM%C3%A1s_2021.png/revision/latest?cb=20240823202310" audio-track="spa" tvg-country="us", UNIMÁS West HD
 https://peaky.techcoder40.workers.dev/5933.m3u8
 #EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1U4jxfFR5i-xRt3BhaQkTGCNEsKdfJyCl" shift="-1", Unicable HD
+http://201.77.60.62:8002/play/a0od/index.m3u8
+#EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1U4jxfFR5i-xRt3BhaQkTGCNEsKdfJyCl" shift="-1", Unicable HD
 
+http://190.61.101.11:7050/play/a0a6/index.m3u8
+#EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unicable_logo.svg" shift="-1", Unicable (480p)
+http://201.77.60.62:8002/play/a0oe/index.m3u8
 #EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unicable_logo.svg" shift="-1", Unicable (320p)
 http://201.77.60.62:8002/play/a0oe/index.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest?cb=20210515040932&path-prefix=es" tvg-country="mx", Canal 5 (720p)
