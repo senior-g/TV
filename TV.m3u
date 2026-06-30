@@ -1,6 +1,8 @@
 #EXTM3U UTF-8 x-tvg-url="https://www.open-epg.com/files/mexico2.xml"
-#EXTINF:0 type="stream" channelId="3731" group="TV MX" name="AZTECA UNO.mx" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" tvg-country="mx", Azteca Uno (480p)
-http://201.77.60.62:8002/play/a0cc/index.m3u8
+#EXTINF:0 type="stream" channelId="3731" group="TV MX" name="AZTECA UNO.mx" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" tvg-country="mx", Azteca Uno
+https://peaky.techcoder40.workers.dev/5938.m3u8
+#EXTINF:0 type="stream" channelId="3731" group="TV MX" name="AZTECA UNO.mx" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" tvg-country="mx", Azteca Uno HD
+https://peaky.techcoder40.workers.dev/5940.m3u8
 #EXTINF:0 type="stream" channelId="3731" group="TV MX" name="AZTECA UNO.mx" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" shift="-1" tvg-country="mx", Azteca Uno -1 hora (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:0 type="stream" channelId="1954" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Las_Estrellas_2017.svg/revision/latest/scale-to-width-down/1000?cb=20210514230345&path-prefix=es" audio-track="spa" tvg-country="mx", Las Estrellas (720p)
@@ -57,7 +59,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="2659" group="TV MX" tvg-country="mx", Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 type="stream" channelId="255" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1TlUJlksIyfOMb730h_mrZmi3i_QlVWEI" tvg-country="mx", Azteca 7 (720p)
-
+https://peaky.techcoder40.workers.dev/5939.m3u8
 #EXTINF:0 type="stream" channelId="255" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/12rEdRMCO_hkGTGX0-o9OUqbuPREosBK9" tvg-country="mx", Azteca 7 Full HD
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="228" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Azteca_Internacional_Logo_Official_2023-present.svg" tvg-country="pe", Azteca Internacional Full HD
