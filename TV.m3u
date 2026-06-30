@@ -25,6 +25,8 @@ http://201.216.147.90:8729/play/a0c7
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:49 type="stream" channelId="3779" group="TV USA" logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" tvg-country="us", Universo HD
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:49 type="stream" channelId="3779" group="TV USA" logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" tvg-country="us", Universo HD
+
 #EXTINF:0 type="stream" channelId="3209" group="TV USA" audio-track="spa" tvg-country="us", Univisión HD
 http://190.60.48.150:8000/play/univision/index.m3u8
 #EXTINF:0 type="stream" channelId="3209" group="TV USA" audio-track="spa" tvg-country="us", Univisión HD
@@ -36,25 +38,21 @@ https://peaky.techcoder40.workers.dev/5932.m3u8
 EXTINF:0 type="stream" channelId="-1" group="TV USA" logo="https://static.wikia.nocookie.net/iepfanon/images/7/77/Logo_UniM%C3%A1s_2021.png/revision/latest?cb=20240823202310" audio-track="spa" tvg-country="us", UNIMÁS West HD
 https://peaky.techcoder40.workers.dev/5933.m3u8
 #EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1U4jxfFR5i-xRt3BhaQkTGCNEsKdfJyCl" shift="-1", Unicable HD
-http://201.77.60.62:8002/play/a0kj/index.m3u8
+
 #EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unicable_logo.svg" shift="-1", Unicable (320p)
 http://201.77.60.62:8002/play/a0oe/index.m3u8
-#EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest?cb=20210515040932&path-prefix=es" tvg-country="mx", Canal 5 (480p)
-http://201.77.60.62:8002/play/a0fl/index.m3u8
 #EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest?cb=20210515040932&path-prefix=es" tvg-country="mx", Canal 5 (720p)
 http://200.115.120.1:8000/play/ca0105/index.m3u8
-#EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1Zys6Zi-NivYyluM82fmZRaK14fUHwCUL" tvg-country="mx", Canal 5 FHD
+#EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1Zys6Zi-NivYyluM82fmZRaK14fUHwCUL" tvg-country="mx", Canal 5 Full HD
 http://201.77.60.62:8002/play/a0ll/index.m3u8
-#EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1Zys6Zi-NivYyluM82fmZRaK14fUHwCUL" tvg-country="mx", Canal 5 FHD
+#EXTINF:0 type="stream" channelId="1955" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1Zys6Zi-NivYyluM82fmZRaK14fUHwCUL" tvg-country="mx", Canal 5 Full HD
 http://201.77.60.62:8002/play/a0nu/index.m3u8
 #EXTINF:0 type="stream" channelId="2659" group="TV MX" tvg-country="mx", Canal 6 MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0 type="stream" channelId="2659" group="TV MX" tvg-country="mx", Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:0 type="stream" channelId="255" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1TlUJlksIyfOMb730h_mrZmi3i_QlVWEI" tvg-country="mx", Azteca 7 (480p)
-http://201.77.60.62:8002/play/a0fm/index.m3u8
 #EXTINF:0 type="stream" channelId="255" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1TlUJlksIyfOMb730h_mrZmi3i_QlVWEI" tvg-country="mx", Azteca 7 (720p)
-https://mdstrm.com/live-stream-playlist/67da2962c4eed1a805b30e61.m3u8
+
 #EXTINF:0 type="stream" channelId="255" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/12rEdRMCO_hkGTGX0-o9OUqbuPREosBK9" tvg-country="mx", Azteca 7 Full HD
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="228" group="TV MX" logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Azteca_Internacional_Logo_Official_2023-present.svg" tvg-country="pe", Azteca Internacional Full HD
@@ -794,19 +792,21 @@ http://185.189.225.157/EuroSport1/index.m3u8
 http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Deportes" logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Lucha_Libre_AAA_Worldwide_logo.png" tvg-country="mx", AAA Worldwide
 https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4d17b57e-7af5-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="2065" group="Deportes" logo="https://blog.logomyway.com/wp-content/uploads/2021/03/wwe-logo-png.png" audio-track="spa" tvg-country="sv", WWE Network (720p)
+#EXTINF:0 type="stream" channelId="2065" group="Deportes" logo="https://blog.logomyway.com/wp-content/uploads/2021/03/wwe-logo-png.png" audio-track="spa" tvg-country="", WWE Network (720p)
 http://200.115.120.1:8000/play/ca121/index.m3u8
 #EXTINF:0 type="stream" channelId="2065" group="Deportes" logo="https://blog.logomyway.com/wp-content/uploads/2021/03/wwe-logo-png.png" audio-track="spa" tvg-country="us", WWE Network HD
 http://fl2.moveonjoy.com/WWE/index.m3u8
 #EXTINF:0 type="stream" channelId="4642" group="Deportes" audio-track="spa" tvg-country="ar", UFC HD
 http://fl1.moveonjoy.com/UFC/index.m3u8
-#EXTINF:0 type="stream" channelId="2595" group="Deportes" logo="https://watch.dazn.com/default-assets/partnership-default.png" audio-track="spa" tvg-country="mx", DAZN Combat HD
+#EXTINF:0 type="stream" channelId="2595" group="Deportes" logo="https://watch.dazn.com/default-assets/partnership-default.png" audio-track="spa" tvg-country="us", DAZN Combat HD
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:0 type="stream" channelId="4642" group="Deportes" logo"https://lh3.googleusercontent.com/u/0/d/1HsfMVqx2rlxq7OHwWywGz1XTdrVJwYjv" tvg-country="mx", Adrenalina Sports Network HD
 http://200.59.188.3:8000/play/a162
-#EXTINF:0 type="stream" channelId="1177" group="Deportes" logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" audio-track="spa" tvg-country="ar", F1 TV
+#EXTINF:0 type="stream" channelId="1177" group="Deportes" logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" audio-track="spa" tvg-country="us", F1 TV
 https://is.gd/rVSZEu?US600011Q2.m3u8
-#EXTINF:0 type="stream" channelId="1333" group="Deportes" audio-track="spa" tvg-country="ar", Red Bull TV
+#EXTINF:0 type="stream" channelId="1333" group="Deportes" audio-track="spa" tvg-country="us", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 type="stream" channelId="2894" group="Deportes" audio-track="spa" aspect-ratio="16:9" tvg-country="co", NFL Network
+#EXTINF:0 type="stream" channelId="2894" group="Deportes" audio-track="spa" aspect-ratio="16:9" tvg-country="us", NFL Network
 http://201.77.60.62:8002/play/a0kk/index.m3u8
+#EXTINF:0 type="stream" channelId="" group="Deportes" audio-track="spa" aspect-ratio="16:9" tvg-country="us", NBA HD
+http://201.77.60.62:8002/play/a0kj/index.m3u8
