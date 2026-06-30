@@ -1,6 +1,4 @@
 #EXTM3U UTF-8 x-tvg-url="https://www.open-epg.com/files/mexico2.xml"
-#EXTINF:0 type="stream" channelId="3731" group="TV MX" name="AZTECA UNO.mx" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" tvg-country="mx", Azteca Uno
-https://peaky.techcoder40.workers.dev/5938.m3u8
 #EXTINF:0 type="stream" channelId="3731" group="TV MX" name="AZTECA UNO.mx" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" tvg-country="mx", Azteca Uno HD
 https://peaky.techcoder40.workers.dev/5940.m3u8
 #EXTINF:0 type="stream" channelId="3731" group="TV MX" name="AZTECA UNO.mx" logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png/revision/latest?cb=20231121205329" shift="-1" tvg-country="mx", Azteca Uno -1 hora (720p)
@@ -21,6 +19,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:0 type="stream" channelId="1967" group="TV USA" tvg-country="us", Telemundo USA Full HD
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1967" group="TV USA" tvg-country="us", Telemundo East HD
+https://peaky.techcoder40.workers.dev/5930.m3u8
+#EXTINF:0 type="stream" channelId="1967" group="TV USA" tvg-country="us", Telemundo East HD
+https://peaky.techcoder40.workers.dev/5931.m3u8
 #EXTINF:0 type="stream" channelId="1968" group="TV USA" logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Telemundo_Internacional_Logo_%282018-presente%29.png/revision/latest?cb=20181101133212&path-prefix=es" tvg-country="co", Telemundo Internacional HD
 http://201.216.147.90:8729/play/a0c7
 #EXTINF:0 type="stream" channelId="3791" group="TV USA" tvg-country="pr", Telemundo Puerto Rico (720p)
@@ -28,7 +30,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:49 type="stream" channelId="3779" group="TV USA" logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" tvg-country="us", Universo HD
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:49 type="stream" channelId="3779" group="TV USA" logo="https://img.nbc.com/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" tvg-country="us", Universo HD
-
+https://peaky.techcoder40.workers.dev/5936.m3u8
 #EXTINF:0 type="stream" channelId="3209" group="TV USA" audio-track="spa" tvg-country="us", Univisión HD
 http://190.60.48.150:8000/play/univision/index.m3u8
 #EXTINF:0 type="stream" channelId="3209" group="TV USA" audio-track="spa" tvg-country="us", Univisión HD
@@ -37,12 +39,11 @@ http://181.78.21.46:8009/play/a02p
 http://201.216.147.90:8729/play/a0pa
 #EXTINF:0 type="stream" channelId="-1" group="TV USA" logo="https://static.wikia.nocookie.net/iepfanon/images/7/77/Logo_UniM%C3%A1s_2021.png/revision/latest?cb=20240823202310" audio-track="spa" tvg-country="us", UNIMÁS East HD
 https://peaky.techcoder40.workers.dev/5932.m3u8
-EXTINF:0 type="stream" channelId="-1" group="TV USA" logo="https://static.wikia.nocookie.net/iepfanon/images/7/77/Logo_UniM%C3%A1s_2021.png/revision/latest?cb=20240823202310" audio-track="spa" tvg-country="us", UNIMÁS West HD
+#EXTINF:0 type="stream" channelId="-1" group="TV USA" logo="https://static.wikia.nocookie.net/iepfanon/images/7/77/Logo_UniM%C3%A1s_2021.png/revision/latest?cb=20240823202310" audio-track="spa" tvg-country="us", UNIMÁS West HD
 https://peaky.techcoder40.workers.dev/5933.m3u8
 #EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1U4jxfFR5i-xRt3BhaQkTGCNEsKdfJyCl" shift="-1", Unicable HD
 http://201.77.60.62:8002/play/a0od/index.m3u8
 #EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://lh3.googleusercontent.com/u/0/d/1U4jxfFR5i-xRt3BhaQkTGCNEsKdfJyCl" shift="-1", Unicable HD
-
 http://190.61.101.11:7050/play/a0a6/index.m3u8
 #EXTINF:0 type="stream" channelId="388" name="UNICABLE.mx" group="TV USA" logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unicable_logo.svg" shift="-1", Unicable (480p)
 http://201.77.60.62:8002/play/a0oe/index.m3u8
@@ -105,7 +106,7 @@ http://190.60.48.150:8000/play/distrito-comedia/index.m3u8
 #EXTINF:0 type="stream" channelId="1961" group="TV MX" logo="https://lh3.googleusercontent.com/u/0/d/1HYBRgVbl9Sfn9g2jX6uSABsOCQq4rjJx" audio-track="spa" tvg-country="pe", Distrito Comedia Full HD
 http://201.216.147.90:8729/play/a00q
 #EXTINF:0 type="stream" channelId="1970" group="TV USA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/1200px-Galavision_Logo_2024.svg.png" tvg-country="us", Galavisión HD
-
+https://peaky.techcoder40.workers.dev/5941.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://imageservice.disco.peacocktv.com/uuid/700e1a8a-dcdd-3bea-a86b-7a03a595f26a/TITLE_TREATMENT?language=eng&territory=US&proposition=NBCUOTT&version=c23e3259-016c-3ab0-b443-663d126bffab" tvg-country="us", Telemundo Noticias HD
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://images.fubo.tv/station_logos/Estrella_News_c.png" tvg-country="us", Estrella TV News HD
@@ -639,7 +640,7 @@ https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 #EXTINF:0 type="stream" channelId="151" group="LifeStyle" audio-track="spa" tvg-country="mx", VH1 HD
 
 #EXTINF:0 type="stream" channelId="3804" name="TUDN.mx" group="Deportes" tvg-country="mx", TUDN HD
-http://jumangis.cloud:2082/live/Basyco206/mGuUnbrV9p/28433.m3u8
+https://peaky.techcoder40.workers.dev/5975.m3u8
 #EXTINF:0 type="stream" channelId="3804" name="TUDN.mx" group="Deportes" tvg-country="mx", TUDN FHD
 http://201.77.60.62:8002/play/a0o8/index.m3u8
 #EXTINF:0 type="stream" channelId="407" group="Deportes" logo="https://lh3.googleusercontent.com/u/0/d/13H9bw9KC_tDEivf_VFIKi6Z7-6G2_v27" tvg-country="us", TUDN USA HD
